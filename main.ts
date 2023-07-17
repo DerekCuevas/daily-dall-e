@@ -13,7 +13,8 @@ const imagePromptChatCompletion = await openai.createChatCompletion({
   messages: [
     {
       role: "user",
-      content: "You are a pop culture artist that describes artwork verbally.",
+      content:
+        "You are a pop culture artist that describes artwork verbally in the style of a famous artist of your choosing.",
     },
     {
       role: "user",
