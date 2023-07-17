@@ -28,7 +28,7 @@ const imagePromptChatCompletion = await openai.createChatCompletion({
   ],
 });
 
-const imagePrompt = imagePromptChatCompletion.choices[0].message.content;
+const imagePrompt = imagePromptChatCompletion.choices[0].message.content!;
 console.log(`Generating image: ${imagePrompt}`);
 
 const image = await openai.createImage({
