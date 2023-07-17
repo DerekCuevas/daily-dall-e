@@ -1,0 +1,39 @@
+name: Generate Daily Dall-E
+
+on:
+  # Triggers the workflow every 24 hours
+  schedule:
+    - cron: "0 1 * * *"
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Setup repo
+        uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GH_PAT }}
+
+      - name: Setup Deno
+        # uses: denoland/setup-deno@v1
+        uses: denoland/setup-deno@9db7f66e8e16b5699a514448ce994936c63f0d54
+        with:
+          deno-version: v1.x
+
+      - name: Create env file
+        run: |
+          echo "${{ secrets.ENV_FILE }}" > .env
+
+      - name: Run main
+        run: |
+          deno run --allow-net --allow-write --allow-read --allow-env main.ts
+
+      - name: Commit content
+        uses: EndBug/add-and-commit@v9
+        with:
+          default_author: github_actions
+          add: "."
