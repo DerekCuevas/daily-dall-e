@@ -25,8 +25,6 @@ export class TrendFinder {
     const response = await googleTrends.dailyTrends({ geo: filter.geo });
     const parsed = JSON.parse(response).default as GoogleTrendsResponse;
 
-    console.log(JSON.stringify);
-
     return parsed.trendingSearchesDays
       .flatMap((t) => t.trendingSearches)
       .map((t) => ({ query: t.title.query }));
