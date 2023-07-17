@@ -31,6 +31,10 @@ const imagePromptChatCompletion = await openai.createChatCompletion({
 const imagePrompt = imagePromptChatCompletion.choices[0].message.content!;
 console.log(`Generating image: ${imagePrompt}`);
 
+if (imagePrompt.startsWith("As a language model")) {
+  throw new Error(imagePrompt);
+}
+
 const image = await openai.createImage({
   prompt: imagePrompt,
   n: 1,
@@ -56,7 +60,15 @@ if (imageResponse.body) {
   await imageResponse.body.pipeTo(archiveFile.writable);
 }
 
-const dailyFilepath = `./daily-dall-e.png`;
-await Deno.copyFile(archiveFilepath, dailyFilepath);
+const readmeContents = `
+# Daily Dall-E
 
+![Daily Dall-E](${archiveFilepath})
+
+> ${imagePrompt}
+
+${topThree.map((t) => `1. ${t}`).join("\n")}
+`;
+
+await Deno.writeTextFile("./README.md", readmeContents);
 console.log("Complete.");
