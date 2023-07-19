@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-07-18T02:59:21.265Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-07-19T05:58:39.224Z.png)
 
-> In the iconic style of Andy Warhol, I present "Sofia, the Golden Bachelor, and Miranda" - a vibrant, colorful screen print featuring the three pop culture icons in bold, oversized portraits, symbolizing the glitz, glamour, and drama of our contemporary society.
+> In the style of Jackson Pollock: "The chaotic interplay of bright colors and bold lines in this painting emulate the thrill of playing Powerball, with strategically placed drips resembling the rush of adrenaline one feels with a big win."
 
-1. Sofia Vergara
-1. Golden Bachelor
-1. Miranda Lambert
+1. Powerball
+1. Justified: City Primeval
+1. Gigi Hadid
