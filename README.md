@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-07-19T05:58:39.224Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-07-20T01:29:01.764Z.png)
 
-> In the style of Jackson Pollock: "The chaotic interplay of bright colors and bold lines in this painting emulate the thrill of playing Powerball, with strategically placed drips resembling the rush of adrenaline one feels with a big win."
+> In the vibrant and colorful style of Andy Warhol, a mixed-media piece depicts Carlee Russell, Jason Aldean, and Ron DeSantis with bold outlines and bright hues, symbolizing their impact and influence on contemporary culture.
 
-1. Powerball
-1. Justified: City Primeval
-1. Gigi Hadid
+1. Carlee Russell
+1. Jason Aldean
+1. Ron DeSantis
