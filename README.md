@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-07-21T01:29:15.676Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-07-22T01:29:13.281Z.png)
 
-> In the style of Salvador Dali: "A surrealistic painting of a golden Powerball rolling through the Women's World Cup 2023 groups while Kevin Mitnick's face morphs into the ball, symbolizing an ever-increasing role of technology in sports and entertainment."
+> In the style of Frida Kahlo, I would describe a piece of artwork that features Tony Bennett, Inter Miami, and Lana Del Rey as: "A vibrant self-portrait with Bennett's voice in the background, depicting a Miami beach scene with palm trees swaying to Del Rey's music."
 
-1. Powerball
-1. Women's World Cup 2023 groups
-1. Kevin Mitnick
+1. Tony Bennett
+1. Inter Miami
+1. Lana Del Rey
