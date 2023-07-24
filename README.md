@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-07-23T05:05:32.052Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-07-24T01:29:18.057Z.png)
 
-> In the style of Vincent van Gogh: "Bright and bold, my painted field of stars encircles a soccer match in which the passionate football fans of Arsenal and Man United fiercely compete under the bright, vividly-lit stadium lights."
+> In the style of Andy Warhol: "A boldly colorful portrait of Brian Harman, a Real Madrid jersey adorned with the American flag, and a fierce Lioness soldier wielding her weapon in an explosive celebration of pop culture and contemporary heroes."
 
-1. Arsenal vs Man United
-1. Jamie Foxx
-1. Barcelona vs Juventus
+1. Brian Harman
+1. Real Madrid
+1. Special Ops: Lioness
