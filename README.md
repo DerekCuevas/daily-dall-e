@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-07-29T01:28:08.268Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-07-30T01:28:46.413Z.png)
 
-> In the style of Salvador Dali: "A surrealistic painting of Spence and Crawford united as a two-headed monster, wearing boxing gloves and surrounded by the celestial figures of Good Omens, while Nathaniel Hackett assesses their strategy, all within a melting clock landscape."
+> In the iconic style of Andy Warhol, an artwork of Max Scherzer in a Real Madrid jersey surrounded by Barcelona and Real Madrid logos, colored in bright and bold hues of red and blue.
 
-1. Spence vs Crawford
-1. Good Omens
-1. Nathaniel Hackett
+1. Barcelona vs Real Madrid
+1. Real Madrid
+1. Max Scherzer
