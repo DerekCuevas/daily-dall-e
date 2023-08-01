@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-07-30T01:28:46.413Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-01T02:40:24.318Z.png)
 
-> In the iconic style of Andy Warhol, an artwork of Max Scherzer in a Real Madrid jersey surrounded by Barcelona and Real Madrid logos, colored in bright and bold hues of red and blue.
+> In the bold and colorful style of Romero Britto, a vibrant portrait of Angus Cloud, Paul Reubens, and Lori Vallow sitting together in a surreal scene with a pop art inspired background.
 
-1. Barcelona vs Real Madrid
-1. Real Madrid
-1. Max Scherzer
+1. Angus Cloud
+1. Paul Reubens
+1. Lori Vallow
