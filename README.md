@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-01T02:40:24.318Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-05T01:27:56.984Z.png)
 
-> In the bold and colorful style of Romero Britto, a vibrant portrait of Angus Cloud, Paul Reubens, and Lori Vallow sitting together in a surreal scene with a pop art inspired background.
+> In the style of Pablo Picasso, "Kai in Breaking Bad: A cubist portrait of Kai Cenat reimagined as a character from Breaking Bad in vibrant, angular hues, with Dolly Parton's likeness subtly incorporated into the background."
 
-1. Angus Cloud
-1. Paul Reubens
-1. Lori Vallow
+1. Kai Cenat
+1. Breaking Bad
+1. Dolly Parton
