@@ -1,12 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-10T01:28:59.234Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-12T01:20:25.289Z.png)
 
-> In the style of Salvador Dali:
+> In the style of Vincent van Gogh, "A Starry Night Over Lambeau Field" depicts the iconic Green Bay Packers stadium under a swirl of vibrant green and gold stars, with a bustling crowd cheering on their team below.
 
-Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Tay's erratic persona intertwines with Maui Fire's scorching flames, while Robbie Robertson's haunting lyrics echo in the distance.
-
-1. Lil Tay
-1. Maui Fire
-1. Robbie Robertson
+1. Premier League
+1. Packers
+1. Steelers
