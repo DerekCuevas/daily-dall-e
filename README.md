@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-14T01:22:27.738Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-15T01:21:54.447Z.png)
 
-> In the iconic style of Vincent Van Gogh, I present a swirling, starry night sky above a football stadium lit up in the colors of the San Francisco 49ers and Kansas City Chiefs, with a shooting meteor shower overhead, capturing the excitement and energy of the Super Bowl.
+> In the style of Vincent van Gogh: "A vibrant oil painting of a triumphant Ezekiel Elliott breaking tackles and rushing towards the end zone in the midst of a starry, starry night, while Manchester United's crest hangs proudly in the background."
 
-1. 49ers
-1. Meteor shower
-1. Chiefs
+1. Michael Oher
+1. Ezekiel Elliott
+1. Manchester United
