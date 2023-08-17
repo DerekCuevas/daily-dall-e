@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-15T01:21:54.447Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-17T01:20:33.941Z.png)
 
-> In the style of Vincent van Gogh: "A vibrant oil painting of a triumphant Ezekiel Elliott breaking tackles and rushing towards the end zone in the midst of a starry, starry night, while Manchester United's crest hangs proudly in the background."
+> In the grungy style of Banksy, a spray-painted mural depicts Manchester City players battling it out against a backdrop of Sevilla's Giralda Tower, with a subtle nod to the famous Trevi fountain in Rome.
 
-1. Michael Oher
-1. Ezekiel Elliott
-1. Manchester United
+1. Man City vs Sevilla
+1. Manchester City
+1. Rome Trevi Fountain
