@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-17T01:20:33.941Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-18T01:21:26.156Z.png)
 
-> In the grungy style of Banksy, a spray-painted mural depicts Manchester City players battling it out against a backdrop of Sevilla's Giralda Tower, with a subtle nod to the famous Trevi fountain in Rome.
+> In the style of Pablo Picasso: "Cubist interpretation of Wander Franco's explosive debut in the MLB, set against the backdrop of Yellowknife's otherworldly aurora borealis, with a BMW Championship trophy sitting on Franco's shoulder as a symbol of his arrival to the big leagues."
 
-1. Man City vs Sevilla
-1. Manchester City
-1. Rome Trevi Fountain
+1. Yellowknife
+1. BMW Championship
+1. Wander Franco news
