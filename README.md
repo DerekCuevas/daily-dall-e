@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-18T01:21:26.156Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-19T01:19:51.156Z.png)
 
-> In the style of Pablo Picasso: "Cubist interpretation of Wander Franco's explosive debut in the MLB, set against the backdrop of Yellowknife's otherworldly aurora borealis, with a BMW Championship trophy sitting on Franco's shoulder as a symbol of his arrival to the big leagues."
+> In the style of Vincent van Gogh, "A Starry Night in Bayern Munich" depicts the iconic soccer stadium nestled among the countryside hills under a bustling sky of stars and a crescent moon, with Rich Men North of Richmond enjoying the match from their private box.
 
-1. Yellowknife
-1. BMW Championship
-1. Wander Franco news
+1. Rich Men North of Richmond
+1. Bayern Munich
+1. Mike Tyson
