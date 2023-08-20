@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-19T01:19:51.156Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-20T01:23:26.707Z.png)
 
-> In the style of Vincent van Gogh, "A Starry Night in Bayern Munich" depicts the iconic soccer stadium nestled among the countryside hills under a bustling sky of stars and a crescent moon, with Rich Men North of Richmond enjoying the match from their private box.
+> In the style of Vincent van Gogh: "A vibrant and dynamic painting capturing the intense energy and heated rivalries of Tottenham vs Man United, Man City, and Liverpool on the pitch, with bold brushstrokes of their team colors swirling in a frenzied battle under the glowing lights of the stadium."
 
-1. Rich Men North of Richmond
-1. Bayern Munich
-1. Mike Tyson
+1. Tottenham vs Man United
+1. Man City
+1. Liverpool
