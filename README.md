@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-20T01:23:26.707Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-21T01:21:32.756Z.png)
 
-> In the style of Vincent van Gogh: "A vibrant and dynamic painting capturing the intense energy and heated rivalries of Tottenham vs Man United, Man City, and Liverpool on the pitch, with bold brushstrokes of their team colors swirling in a frenzied battle under the glowing lights of the stadium."
+> In the style of Salvador Dali: "A surrealistic art piece featuring a melting Detroit Lions helmet on a shaking West Ham vs Chelsea football field, symbolizing the instability of professional sports in a tumultuous world."
 
-1. Tottenham vs Man United
-1. Man City
-1. Liverpool
+1. Earthquake
+1. West Ham vs Chelsea
+1. Detroit Lions
