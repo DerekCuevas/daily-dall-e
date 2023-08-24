@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-23T01:21:38.636Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-24T01:21:29.366Z.png)
 
-> In the style of Salvador Dali: "A kaleidoscopic painting of floating surrealistic shapes, inspired by the otherworldly grace of Caleb Farley's football skills, the fierce and fearless Ahsoka from the Star Wars universe, and the vibrant colors of Al Nassr's soccer jersey."
+> In the style of Andy Warhol, a bright and colorful silkscreen print featuring the face of a smirking Prigozhin overlaid on a split screen of the chaotic 2020 Republican debate, with the Nvidia stock symbol in bold neon letters at the top.
 
-1. Caleb Farley
-1. Ahsoka
-1. Al Nassr
+1. Prigozhin
+1. Republican debate
+1. Nvidia stock
