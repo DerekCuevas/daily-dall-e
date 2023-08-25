@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-08-24T01:21:29.366Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-08-25T01:22:42.391Z.png)
 
-> In the style of Andy Warhol, a bright and colorful silkscreen print featuring the face of a smirking Prigozhin overlaid on a split screen of the chaotic 2020 Republican debate, with the Nvidia stock symbol in bold neon letters at the top.
+> In the style of Salvador Dali: "In a surrealist depiction of the Steelers' snowy stadium, Isaiah Simmons and Bray Wyatt appear as towering, mythic creatures battling for dominance over the field."
 
-1. Prigozhin
-1. Republican debate
-1. Nvidia stock
+1. Bray Wyatt
+1. Isaiah Simmons
+1. Steelers
