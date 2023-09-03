@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-09-01T01:25:54.896Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-09-03T01:25:01.507Z.png)
 
-> In the style of Salvador Dali: A surrealist portrait of a personification of the Champions League draw, with One Piece pirates emerging from their folded sleeves and a Ruby Franke-inspired island floating in the background.
+> Using the style of Andy Warhol, I would describe my artwork as "A colorful and energetic pop art portrait of Jimmy Buffett tossing a Michigan football while wearing a college football jersey."
 
-1. Champions League draw
-1. One Piece live-action
-1. Ruby Franke
+1. Jimmy Buffett
+1. College football
+1. Michigan football
