@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-09-03T01:25:01.507Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-09-04T01:23:30.480Z.png)
 
-> Using the style of Andy Warhol, I would describe my artwork as "A colorful and energetic pop art portrait of Jimmy Buffett tossing a Michigan football while wearing a college football jersey."
+> In the style of Vincent van Gogh: "A vibrant and energetic painting captures the thrilling match between Arsenal and Georgia football, with the iconic vocalist Steve Harwell cheering on from the stands."
 
-1. Jimmy Buffett
-1. College football
-1. Michigan football
+1. Arsenal
+1. Georgia football
+1. Steve Harwell
