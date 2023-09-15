@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-09-14T01:22:51.406Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-09-15T01:23:41.967Z.png)
 
-> In the signature style of Vincent Van Gogh, I would describe the artwork as "A vibrant portrayal of the political and educational realms, featuring Boebert on a mountain top, Mitt Romney sporting a business suit, and the University of North Carolina's iconic Tar Heel symbol all entwined in a breathtaking sunset within a Starry Night-inspired sky."
+> In the style of Vincent van Gogh: "A swirling and vibrant canvas of an eagle soaring above a factory besieged by striking UAW workers, its feathers painted with the bold and striking patterns of an Arm stock graph."
 
-1. Boebert
-1. Mitt Romney
-1. UNC
+1. Eagles
+1. Arm stock
+1. UAW strike
