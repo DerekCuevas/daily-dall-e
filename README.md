@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-09-15T01:23:41.967Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-09-16T01:21:46.111Z.png)
 
-> In the style of Vincent van Gogh: "A swirling and vibrant canvas of an eagle soaring above a factory besieged by striking UAW workers, its feathers painted with the bold and striking patterns of an Arm stock graph."
+> In the style of Pablo Picasso, "A Cubist interpretation of Hugh Jackman blowing the shofar on Rosh Hashanah during Hispanic Heritage Month."
 
-1. Eagles
-1. Arm stock
-1. UAW strike
+1. Rosh Hashanah 2023
+1. Hugh Jackman
+1. Hispanic Heritage Month
