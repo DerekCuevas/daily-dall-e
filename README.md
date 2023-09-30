@@ -1,10 +1,12 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-09-29T01:23:42.581Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-09-30T01:22:48.126Z.png)
 
-> As an AI language model, I do not have personal preferences or the ability to produce artwork, but I can suggest a verbal description of a piece of artwork that incorporates the trends you mentioned. Please let me know who the famous artist you would like me to imitate is, and I'll do my best to create a description for you!
+> In the style of Salvador Dali: 
 
-1. Michael Gambon
-1. Ryder Cup
-1. Powerball drawing
+"Behold, a surreal masterpiece of a flooded New York City with Tupac and Dianne Feinstein serenading each other on a sinking subway train."
+
+1. Dianne Feinstein
+1. Tupac
+1. Nyc flooding
