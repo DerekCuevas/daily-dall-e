@@ -1,12 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-09-30T01:22:48.126Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-01T01:28:46.492Z.png)
 
-> In the style of Salvador Dali: 
+> In the style of Vincent van Gogh, "A Starry Night in Pennsylvania" captures the exhilarating moment of a Penn State touchdown during a bright and starry night game.
 
-"Behold, a surreal masterpiece of a flooded New York City with Tupac and Dianne Feinstein serenading each other on a sinking subway train."
-
-1. Dianne Feinstein
-1. Tupac
-1. Nyc flooding
+1. Colorado vs USC
+1. Georgia football
+1. Penn State football
