@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-01T01:28:46.492Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-02T01:23:59.204Z.png)
 
-> In the style of Vincent van Gogh, "A Starry Night in Pennsylvania" captures the exhilarating moment of a Penn State touchdown during a bright and starry night game.
+> In the style of Andy Warhol: "Brightly colored silkscreen print featuring the bold logos of the Eagles, 49ers, and Jaguars, arranged in a grid and repeating like a pop art wallpaper."
 
-1. Colorado vs USC
-1. Georgia football
-1. Penn State football
+1. Eagles
+1. 49ers
+1. Jaguars
