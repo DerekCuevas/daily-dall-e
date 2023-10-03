@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-02T01:23:59.204Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-03T01:24:08.039Z.png)
 
-> In the style of Andy Warhol: "Brightly colored silkscreen print featuring the bold logos of the Eagles, 49ers, and Jaguars, arranged in a grid and repeating like a pop art wallpaper."
+> In the style of Andy Warhol: "A vibrant portrait of Jimmy Butler surrounded by Appalachian trail maps and Chelsea football club logos, capturing the courage, wanderlust and eclectic passion of today's society."
 
-1. Eagles
-1. 49ers
-1. Jaguars
+1. Jimmy Butler
+1. Appalachian Trail
+1. Chelsea
