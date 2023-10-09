@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-08T01:26:41.132Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-09T01:24:06.461Z.png)
 
-> In the style of Vincent van Gogh, I present "A Starry Night in Maryland", a painting capturing the vivid colors of the Maryland flag over a football stadium where the LSU and Maryland teams face off, with a faint silhouette of the Dome of the Rock in the distance.
+> In the style of Salvador Dali, behold a surrealistic masterpiece featuring a melting Buffalo Bills helmet, a roaring Detroit Lions mascot, and Arsenal and Man City jerseys fused together in a twisted and whimsical display of football fandom.
 
-1. Israel
-1. LSU Football
-1. Maryland football
+1. Buffalo Bills
+1. Detroit Lions
+1. Arsenal vs Man City
