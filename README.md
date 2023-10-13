@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-12T01:22:24.872Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-13T01:25:21.288Z.png)
 
-> In the style of Frida Kahlo, my artwork features Jada Pinkett Smith, Steve Scalise, and a UFC fighter standing side by side in unity, symbolizing the power of diversity, strength in community, and the importance of overcoming differences for the greater good.
+> In the style of Jackson Pollock: A chaotic composition of swirling, energetic lines incorporating shades of red and yellow, depicting the Kansas City Chiefs in their triumphant moment as Super Bowl champions.
 
-1. Jada Pinkett Smith
-1. Steve Scalise
-1. UFC
+1. Chiefs
+1. Powerball winner
+1. Denver Broncos
