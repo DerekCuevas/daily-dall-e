@@ -1,14 +1,21 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-15T01:27:00.006Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-16T01:25:08.037Z.png)
 
-> Sure! Here are three different options for you, each of which features one of the pop culture trends you've provided:
+> Sure, here's my attempt:
 
-1. A contemporary mixed media piece inspired by Oregon football, using vibrant green hues and dynamic brushstrokes to capture the team's energy and spirit on the field. 
-2. A minimalist portrait of two soccer players in black and white, meant to represent the intense rivalry between the USA and Germany during the 2014 World Cup. 
-3. A nostalgic acrylic painting depicting an iconic moment in Tennessee football history, with the beloved Volunteers' team celebrating a hard-fought victory on the field.
+In the style of Vincent van Gogh:
+"This piece depicts the joy and enthusiasm of football fans as they gather to support their favorite teams, capturing the passion and energy of both 49ers and Ravens supporters in a beautiful and vibrant tableau."
 
-1. Oregon football
-1. USA vs Germany
-1. Tennessee football
+In the style of Andy Warhol:
+"This piece features a striking portrait of Alan Hamel, rendered in Warhol's signature style of bold colors and graphic patterns, providing a playful and eye-catching tribute to the legendary entertainer and TV host."
+
+In the style of Pablo Picasso:
+"This surrealist work plays with the themes of competition and triumph, showcasing a frenzied face-off between the Ravens and Titans as they vie for dominance on a chaotic and abstract stage, with Alan Hamel warily watching from the sidelines." 
+
+I hope these descriptions spark some inspiration for your pop culture artwork!
+
+1. Alan Hamel
+1. 49ers
+1. Ravens vs Titans
