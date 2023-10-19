@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-18T01:24:27.026Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-19T01:24:10.161Z.png)
 
-> This piece of artwork showcases the fierce rivalry between Dallas Cowboys and Julio Jones as they face off against Jim Jordan, each determined to come out on top.
+> In the iconic style of Andy Warhol, this piece depicts a vibrant, technicolor portrait of Clint Eastwood flanked by images of Joran van der Sloot and the Bay Area earthquake, capturing the explosive energy of these contemporary cultural touchstones.
 
-1. Dallas Cowboys
-1. Jim Jordan
-1. Julio Jones
+1. Joran van der Sloot
+1. Earthquake Bay Area
+1. Clint Eastwood
