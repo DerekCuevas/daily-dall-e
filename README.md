@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-19T01:24:10.161Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-21T01:22:37.739Z.png)
 
-> In the iconic style of Andy Warhol, this piece depicts a vibrant, technicolor portrait of Clint Eastwood flanked by images of Joran van der Sloot and the Bay Area earthquake, capturing the explosive energy of these contemporary cultural touchstones.
+> In the iconic brush strokes of Vincent Van Gogh, a vibrant and dynamic painting captures the energy and excitement of the Rugby World Cup, with a playful Gwen Stefani and her old dad cheering from the sidelines.
 
-1. Joran van der Sloot
-1. Earthquake Bay Area
-1. Clint Eastwood
+1. Gwen Stefani
+1. Old Dads
+1. Rugby World Cup
