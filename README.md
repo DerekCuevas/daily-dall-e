@@ -1,10 +1,12 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-10-24T01:24:13.458Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-10-25T01:24:03.810Z.png)
 
-> In the style of Vincent van Gogh: A swirling canvas, depicting the intense rivalry between Astros and Rangers, surrounding Byard as he defends his team with unwavering tenacity, while Tottenham swoops in from above like a flock of attacking crows.
+> Picasso-inspired artwork:
 
-1. Astros vs Rangers
-1. Kevin Byard
-1. Tottenham
+"An avant-garde portrait of Tom Emmer, Jenna Ellis, and NBA players in a vibrant and intricate Cubist style, where their features are dismantled and reassembled to convey their dynamic personalities."
+
+1. NBA
+1. Tom Emmer
+1. Jenna Ellis
