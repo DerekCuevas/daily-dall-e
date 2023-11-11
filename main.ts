@@ -1,14 +1,14 @@
-import { OpenAI } from "https://deno.land/x/openai/mod.ts";
+import { OpenAI } from "https://deno.land/x/openai@v4.16.1/mod.ts";
 import { config } from "./config.ts";
 import { TrendFinder } from "./trends_finder.ts";
 
 const trendsFinder = new TrendFinder();
-const openai = new OpenAI(config.OPENAI_API_KEY);
+const openai = new OpenAI({ apiKey: config.OPENAI_API_KEY });
 
 const trends = await trendsFinder.find({ geo: "US" });
 const topThree = trends.slice(0, 3).map((t) => t.query);
 
-const imagePromptChatCompletion = await openai.createChatCompletion({
+const imagePromptChatCompletion = await openai.chat.completions.create({
   model: config.OPENAI_MODEL,
   messages: [
     {
@@ -35,7 +35,7 @@ if (imagePrompt.startsWith("As a language model")) {
   throw new Error(imagePrompt);
 }
 
-const image = await openai.createImage({
+const image = await openai.images.generate({
   prompt: imagePrompt,
   n: 1,
   size: "1024x1024",
@@ -55,9 +55,11 @@ const archiveFile = await Deno.open(archiveFilepath, {
   create: true,
 });
 
-const imageResponse = await fetch(imageURL);
-if (imageResponse.body) {
-  await imageResponse.body.pipeTo(archiveFile.writable);
+if (imageURL) {
+  const imageResponse = await fetch(imageURL);
+  if (imageResponse.body) {
+    await imageResponse.body.pipeTo(archiveFile.writable);
+  }
 }
 
 const readmeContents = `
