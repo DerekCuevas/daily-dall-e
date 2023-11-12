@@ -1,4 +1,15 @@
 
+## 2023-11-12
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-12T05:15:13.261Z.png)
+
+> In the style of Salvador Dali: "A surrealist masterpiece of a melting Lakers jersey, with an Alex Pereira silhouette and a Gordon Ramsay kitchen knife, set against a backdrop of melting clocks and a desert landscape."
+
+1. Lakers
+1. Alex Pereira
+1. Gordon Ramsay
+---
+
 ## 2023-11-12 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-12T01:06:59.563Z.png)
