@@ -1,10 +1,10 @@
 
 # Daily Dall-E
 
-![Daily Dall-E](./archive/daily-dall-e-2023-11-11T18:16:27.851Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-11-12T01:06:59.563Z.png)
 
-> In the style of Vincent van Gogh, I would describe a painting of a Lakers game set against the backdrop of a starry night sky: "A swirling sea of blue and gold jerseys clash amidst a dazzling display of celestial bodies and luminous lights, capturing the electric energy of a Lakers game under the night sky, painted with Van Gogh's masterful brushstrokes."
+> In the style of Salvador Dali: "A surrealistic painting of a floating basketball court, with Real Madrid and Lakers players battling it out while D.J. Hayden spins records in the background."
 
 1. Lakers
-1. Tottenham
-1. Michael Thomas
+1. Real Madrid
+1. D.J. Hayden
