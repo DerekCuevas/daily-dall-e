@@ -1,0 +1,146 @@
+{
+  "topTrends": [
+    {
+      "query": "Patriots",
+      "articles": [
+        {
+          "title": "6 Keys from Patriots loss to Colts in Frankfurt"
+        },
+        {
+          "title": "Mac Jones and the offense comes up flat again as Patriots lose to ..."
+        },
+        {
+          "title": "Patriots owner Robert Kraft on 2-7 start to season: &#39;This isn&#39;t what we ..."
+        },
+        {
+          "title": "Bill O&#39;Brien seen screaming at Mac Jones on sideline during Patriots ..."
+        },
+        {
+          "title": "Colts outlast Patriots in Germany, reach .500 at bye week"
+        },
+        {
+          "title": "Colts vs. Patriots: Staff picks and predictions in Week 10"
+        },
+        {
+          "title": "Patriots QB Mac Jones benched in horrific 10-6 loss to Colts in ..."
+        },
+        {
+          "title": "NFL Week 10 live updates: Colts win in Germany, Browns-Ravens ..."
+        },
+        {
+          "title": "Patriots vs. Colts: Time, odds, TV, live stream, keys, prediction for ..."
+        },
+        {
+          "title": "Robert Kraft on 2-7 Patriots: &quot;This isn&#39;t what we were expecting&quot;"
+        }
+      ]
+    },
+    {
+      "query": "Jimbo Fisher",
+      "articles": [
+        {
+          "title": "Texas A&amp;M to spend more than $75 million to fire football coach ..."
+        },
+        {
+          "title": "Jimbo Fisher expected to be fired by Texas A&amp;M, sources confirm ..."
+        },
+        {
+          "title": "Texas A&amp;M fires football coach Jimbo Fisher, triggering record $77 ..."
+        },
+        {
+          "title": "Jimbo Fisher reportedly set to be fired by Texas A&amp;M"
+        },
+        {
+          "title": "After Jimbo Fisher&#39;s firing, here are 5 candidates for Texas A&amp;M"
+        },
+        {
+          "title": "Texas A&amp;M fires Jimbo Fisher: Sixth-year coach owed more than ..."
+        },
+        {
+          "title": "Texas A&amp;M fires Jimbo Fisher, owes coach roughly $77 million ..."
+        }
+      ]
+    },
+    {
+      "query": "Warriors",
+      "articles": [
+        {
+          "title": "Cavs&#39; Donovan Mitchell: Warriors&#39; Draymond Green &#39;Pushed Me, so I ..."
+        },
+        {
+          "title": "Cavaliers-Warriors Rivalry Is Alive And Well"
+        },
+        {
+          "title": "Draymond Green curiously ejected after squabble with Cavaliers ..."
+        },
+        {
+          "title": "Warriors&#39; Steve Kerr baffled by Draymond Green&#39;s &#39;bizarre&#39; ejection ..."
+        },
+        {
+          "title": "&#39;Nothing surprises&#39; Green after bizarre ejection mars Curry milestone ..."
+        },
+        {
+          "title": "Cavaliers hold off Warriors as Green ejected, Celtics romp"
+        },
+        {
+          "title": "Warriors&#39; Draymond Green Ejected After Shoving Donovan Mitchell"
+        }
+      ]
+    },
+    {
+      "query": "Chelsea vs Man City",
+      "articles": [
+        {
+          "title": "Chelsea vs Man City LIVE: Premier League result and final score as ..."
+        },
+        {
+          "title": "Premier League Soccer Livestream: How to Watch Chelsea vs. Man ..."
+        },
+        {
+          "title": "Chelsea vs Manchester City 4-4: Premier League match – as it ..."
+        },
+        {
+          "title": "Chelsea vs Manchester City live updates: Palmer penalty rescues ..."
+        },
+        {
+          "title": "Chelsea line up vs Man City"
+        },
+        {
+          "title": "Chelsea vs Manchester City player ratings"
+        },
+        {
+          "title": "Chelsea vs. Manchester City score: Live updates as Pep Guardiola&#39;s ..."
+        }
+      ]
+    },
+    {
+      "query": "Barcelona  Alavés",
+      "articles": [
+        {
+          "title": "Barcelona - Alavés summary: score, goals, highlights, LaLiga 2023-24"
+        },
+        {
+          "title": "Barcelona 2-1 Alaves: Goals, highlights and report - LaLiga EA ..."
+        },
+        {
+          "title": "Barcelona v Alaves LIVE! Barca look to keep in touch with la Liga ..."
+        },
+        {
+          "title": "Lewandowski double gives Barca comeback win over Alaves"
+        },
+        {
+          "title": "Barcelona vs Alavés, La Liga: Match Thread, Live Updates"
+        },
+        {
+          "title": "FC Barcelona Versus Alaves Preview: Huge Lineup Changes For ..."
+        },
+        {
+          "title": "Barcelona 2-1 Alavés (Nov 12, 2023) Game Analysis - ESPN"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "\"A vivid pop art painting portrays the intensity of the Patriot's struggle, full of expressive, Warhol-esque blots of striking red, white and blue that seeps through the canvas much like the team's resilience seeping through their challenging season.\"",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-pHhVgIKohbqeKpaXooqViKTo.png?st=2023-11-12T18%3A16%3A42Z&se=2023-11-12T20%3A16%3A42Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-12T12%3A54%3A07Z&ske=2023-11-13T12%3A54%3A07Z&sks=b&skv=2021-08-06&sig=aNXkhKFxFCsJafcRNf52NNvZyhEcBRVuNpdEAyVD4Ic%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-11-12T19:16:43.025Z.png"
+}

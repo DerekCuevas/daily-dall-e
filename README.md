@@ -1,6 +1,19 @@
 
 ## 2023-11-12
 
+![Daily Dall-E](./archive/daily-dall-e-2023-11-12T19:16:43.025Z.png)
+
+> "A vivid pop art painting portrays the intensity of the Patriot's struggle, full of expressive, Warhol-esque blots of striking red, white and blue that seeps through the canvas much like the team's resilience seeping through their challenging season."
+
+1. Patriots
+1. Jimbo Fisher
+1. Warriors
+1. Chelsea vs Man City
+1. Barcelona  Alavés
+---
+
+## 2023-11-12
+
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-12T18:41:16.157Z.png)
 
 > In the style of Vincent Van Gogh: 
