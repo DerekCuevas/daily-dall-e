@@ -1,4 +1,4 @@
-const posts = [];
+const posts: { [k in string]: { date: Date; contents: string } } = {};
 const outputFile = "./README.md";
 
 const dataDir = "./data";
@@ -20,22 +20,25 @@ for await (const file of Deno.readDir(archiveDir)) {
 for await (const file of Deno.readDir(dataDir)) {
   if (!file.isFile) continue;
 
-  const contents = await Deno.readTextFile(`${dataDir}/${file.name}`);
+  const fileContents = await Deno.readTextFile(`${dataDir}/${file.name}`);
 
   const data: {
     topThree: string[];
     imagePrompt: string;
     imageURL: string;
-  } = JSON.parse(contents);
+  } = JSON.parse(fileContents);
 
   const date = file.name.replace("daily-dall-e-", "").replace(".json", "");
+  const datePrefix = getDatePrefix(date);
 
-  const archiveImageFile = archiveImageFileLookup[getDatePrefix(date)];
+  const archiveImageFile = archiveImageFileLookup[datePrefix];
 
   if (!archiveImageFile) continue;
 
-  const readmeContents = `
-## ${date} 
+  const day = date.substring(0, 10);
+
+  const contents = `
+## ${day} 
 
 ![Daily Dall-E](${archiveImageFile})
 
@@ -44,12 +47,11 @@ for await (const file of Deno.readDir(dataDir)) {
 ${data.topThree.map((t) => `1. ${t}`).join("\n")}
 `;
 
-  posts.push({ date: new Date(date), readmeContents });
+  posts[day] = { date: new Date(date), contents };
 }
 
-posts.sort((a, b) => b.date.getTime() - a.date.getTime());
+const postsArray = Object.values(posts);
 
-Deno.writeTextFile(
-  outputFile,
-  posts.map((p) => p.readmeContents).join("---\n")
-);
+postsArray.sort((a, b) => b.date.getTime() - a.date.getTime());
+
+Deno.writeTextFile(outputFile, postsArray.map((p) => p.contents).join("---\n"));

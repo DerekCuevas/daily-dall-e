@@ -1,27 +1,5 @@
 
-## 2023-11-12T05:01:12.059Z
-
-![Daily Dall-E](./archive/daily-dall-e-2023-11-12T05:01:12.059Z.png)
-
-> In the style of Salvador Dali, I would describe a surrealist piece featuring a giant basketball painted in the Lakers' signature yellow and purple, with Alex Pereira as the captain of the team floating above it, and a towering Gordon Ramsay yelling instructions from the sidelines.
-
-1. Lakers
-1. Alex Pereira
-1. Gordon Ramsay
----
-
-## 2023-11-12T01:27:59.502Z 
-
-![Daily Dall-E](./archive/daily-dall-e-2023-11-12T01:27:59.502Z.png)
-
-> In the style of Vincent van Gogh, "The Starry Lakers Night" depicts a dreamy midnight sky over the Staples Center, with LeBron and Anthony Davis silhouetted in purple and gold, gazing up in awe alongside a vibrant yellow moon.
-
-1. Lakers
-1. Real Madrid
-1. D.J. Hayden
----
-
-## 2023-11-12T01:06:59.562Z 
+## 2023-11-12 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-12T01:06:59.563Z.png)
 
@@ -32,7 +10,7 @@
 1. D.J. Hayden
 ---
 
-## 2023-11-11T18:16:27.850Z 
+## 2023-11-11 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-11T18:16:27.851Z.png)
 
@@ -43,7 +21,7 @@
 1. Michael Thomas
 ---
 
-## 2023-11-04T01:24:07.961Z 
+## 2023-11-04 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-04T01:24:07.961Z.png)
 
@@ -54,7 +32,7 @@
 1. BlizzCon 2023
 ---
 
-## 2023-11-02T01:24:17.541Z 
+## 2023-11-02 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-02T01:24:17.542Z.png)
 
@@ -65,7 +43,7 @@
 1. Arsenal
 ---
 
-## 2023-11-01T01:27:06.614Z 
+## 2023-11-01 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-01T01:27:06.615Z.png)
 
@@ -76,7 +54,7 @@
 1. Montez Sweat
 ---
 
-## 2023-10-31T01:24:44.890Z 
+## 2023-10-31 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-31T01:24:44.891Z.png)
 
@@ -87,7 +65,7 @@
 1. NFL trade deadline
 ---
 
-## 2023-10-30T01:24:32.279Z 
+## 2023-10-30 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-30T01:24:32.280Z.png)
 
@@ -98,7 +76,7 @@
 1. 49ers
 ---
 
-## 2023-10-29T01:26:29.107Z 
+## 2023-10-29 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-29T01:26:29.108Z.png)
 
@@ -109,7 +87,7 @@
 1. Celtics
 ---
 
-## 2023-10-27T01:23:13.698Z 
+## 2023-10-27 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-27T01:23:13.699Z.png)
 
@@ -120,7 +98,7 @@
 1. Bucks
 ---
 
-## 2023-10-26T01:23:00.597Z 
+## 2023-10-26 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-26T01:23:00.597Z.png)
 
@@ -131,7 +109,7 @@
 1. Acapulco
 ---
 
-## 2023-10-25T01:24:03.809Z 
+## 2023-10-25 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-25T01:24:03.810Z.png)
 
@@ -144,7 +122,7 @@
 1. Jenna Ellis
 ---
 
-## 2023-10-24T01:24:13.458Z 
+## 2023-10-24 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-24T01:24:13.458Z.png)
 
@@ -155,7 +133,7 @@
 1. Tottenham
 ---
 
-## 2023-10-22T01:27:03.195Z 
+## 2023-10-22 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-22T01:27:03.195Z.png)
 
@@ -166,7 +144,7 @@
 1. UCF football
 ---
 
-## 2023-10-21T01:22:37.738Z 
+## 2023-10-21 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-21T01:22:37.739Z.png)
 
@@ -177,7 +155,7 @@
 1. Rugby World Cup
 ---
 
-## 2023-10-19T01:24:10.160Z 
+## 2023-10-19 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-19T01:24:10.161Z.png)
 
@@ -188,7 +166,7 @@
 1. Clint Eastwood
 ---
 
-## 2023-10-18T01:24:27.026Z 
+## 2023-10-18 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-18T01:24:27.026Z.png)
 
@@ -199,7 +177,7 @@
 1. Julio Jones
 ---
 
-## 2023-10-17T01:24:41.516Z 
+## 2023-10-17 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-17T01:24:41.517Z.png)
 
@@ -210,7 +188,7 @@
 1. Tyreek Hill
 ---
 
-## 2023-10-16T01:25:08.036Z 
+## 2023-10-16 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-16T01:25:08.037Z.png)
 
@@ -232,7 +210,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Ravens vs Titans
 ---
 
-## 2023-10-15T01:27:00.005Z 
+## 2023-10-15 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-15T01:27:00.006Z.png)
 
@@ -247,7 +225,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Tennessee football
 ---
 
-## 2023-10-14T01:22:32.826Z 
+## 2023-10-14 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-14T01:22:32.828Z.png)
 
@@ -258,7 +236,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Austin Scott
 ---
 
-## 2023-10-13T01:25:21.287Z 
+## 2023-10-13 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-13T01:25:21.288Z.png)
 
@@ -269,7 +247,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Denver Broncos
 ---
 
-## 2023-10-12T01:22:24.871Z 
+## 2023-10-12 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-12T01:22:24.872Z.png)
 
@@ -280,7 +258,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. UFC
 ---
 
-## 2023-10-11T01:23:51.379Z 
+## 2023-10-11 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-11T01:23:51.380Z.png)
 
@@ -291,7 +269,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Mary Lou Retton
 ---
 
-## 2023-10-10T01:23:41.165Z 
+## 2023-10-10 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-10T01:23:41.165Z.png)
 
@@ -302,7 +280,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Amazon Prime Day
 ---
 
-## 2023-10-09T01:24:06.460Z 
+## 2023-10-09 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-09T01:24:06.461Z.png)
 
@@ -313,7 +291,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Arsenal vs Man City
 ---
 
-## 2023-10-08T01:26:41.132Z 
+## 2023-10-08 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-08T01:26:41.132Z.png)
 
@@ -324,7 +302,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Maryland football
 ---
 
-## 2023-10-07T01:23:03.722Z 
+## 2023-10-07 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-07T01:23:03.722Z.png)
 
@@ -335,7 +313,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Randy Gregory
 ---
 
-## 2023-10-06T01:23:52.022Z 
+## 2023-10-06 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-06T01:23:52.023Z.png)
 
@@ -346,7 +324,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Washington Commanders
 ---
 
-## 2023-10-05T01:23:55.459Z 
+## 2023-10-05 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-05T01:23:55.460Z.png)
 
@@ -357,7 +335,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Porto vs Barcelona
 ---
 
-## 2023-10-04T01:24:52.251Z 
+## 2023-10-04 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-04T01:24:52.252Z.png)
 
@@ -368,7 +346,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Real Madrid
 ---
 
-## 2023-10-03T01:24:08.039Z 
+## 2023-10-03 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-03T01:24:08.039Z.png)
 
@@ -379,7 +357,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Chelsea
 ---
 
-## 2023-10-02T01:23:59.204Z 
+## 2023-10-02 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-02T01:23:59.204Z.png)
 
@@ -390,7 +368,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Jaguars
 ---
 
-## 2023-10-01T01:28:46.492Z 
+## 2023-10-01 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-10-01T01:28:46.492Z.png)
 
@@ -401,7 +379,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Penn State football
 ---
 
-## 2023-09-30T01:22:48.126Z 
+## 2023-09-30 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-30T01:22:48.126Z.png)
 
@@ -414,7 +392,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Nyc flooding
 ---
 
-## 2023-09-27T01:24:03.546Z 
+## 2023-09-27 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-27T01:24:03.547Z.png)
 
@@ -425,7 +403,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Brooks Robinson
 ---
 
-## 2023-09-25T01:24:11.352Z 
+## 2023-09-25 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-25T01:24:11.353Z.png)
 
@@ -436,7 +414,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Patriots
 ---
 
-## 2023-09-24T01:25:43.754Z 
+## 2023-09-24 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-24T01:25:43.754Z.png)
 
@@ -447,7 +425,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Notre Dame
 ---
 
-## 2023-09-23T01:21:50.822Z 
+## 2023-09-23 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-23T01:21:50.823Z.png)
 
@@ -458,7 +436,7 @@ I hope these descriptions spark some inspiration for your pop culture artwork!
 1. Wisconsin football
 ---
 
-## 2023-09-22T01:23:33.072Z 
+## 2023-09-22 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-22T01:23:33.072Z.png)
 
@@ -471,7 +449,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Trevon Diggs
 ---
 
-## 2023-09-21T01:22:58.946Z 
+## 2023-09-21 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-21T01:22:58.947Z.png)
 
@@ -482,7 +460,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Real Madrid
 ---
 
-## 2023-09-20T01:23:21.697Z 
+## 2023-09-20 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-20T01:23:21.698Z.png)
 
@@ -493,7 +471,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Barcelona
 ---
 
-## 2023-09-19T01:23:58.534Z 
+## 2023-09-19 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-19T01:23:58.534Z.png)
 
@@ -504,7 +482,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Missing F-35
 ---
 
-## 2023-09-18T01:23:34.504Z 
+## 2023-09-18 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-18T01:23:34.506Z.png)
 
@@ -515,7 +493,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Packers
 ---
 
-## 2023-09-17T01:25:32.338Z 
+## 2023-09-17 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-17T01:25:32.339Z.png)
 
@@ -526,7 +504,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Inter Miami
 ---
 
-## 2023-09-16T01:21:46.110Z 
+## 2023-09-16 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-16T01:21:46.111Z.png)
 
@@ -537,7 +515,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Hispanic Heritage Month
 ---
 
-## 2023-09-15T01:23:41.967Z 
+## 2023-09-15 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-15T01:23:41.967Z.png)
 
@@ -548,7 +526,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. UAW strike
 ---
 
-## 2023-09-14T01:22:51.405Z 
+## 2023-09-14 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-14T01:22:51.406Z.png)
 
@@ -559,7 +537,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. UNC
 ---
 
-## 2023-09-13T01:23:55.318Z 
+## 2023-09-13 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-13T01:23:55.319Z.png)
 
@@ -570,7 +548,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Libya
 ---
 
-## 2023-09-12T01:21:54.941Z 
+## 2023-09-12 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-12T01:21:54.941Z.png)
 
@@ -581,7 +559,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Social Security
 ---
 
-## 2023-09-11T01:23:46.090Z 
+## 2023-09-11 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-11T01:23:46.090Z.png)
 
@@ -592,7 +570,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Steelers
 ---
 
-## 2023-09-10T01:25:02.573Z 
+## 2023-09-10 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-10T01:25:02.573Z.png)
 
@@ -603,7 +581,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Clemson football
 ---
 
-## 2023-09-09T01:21:33.409Z 
+## 2023-09-09 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-09T01:21:33.410Z.png)
 
@@ -614,7 +592,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. One Chip Challenge
 ---
 
-## 2023-09-08T01:22:53.149Z 
+## 2023-09-08 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-08T01:22:53.149Z.png)
 
@@ -625,7 +603,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Kelce
 ---
 
-## 2023-09-06T01:22:41.958Z 
+## 2023-09-06 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-06T01:22:41.958Z.png)
 
@@ -636,7 +614,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Hurricane Lee
 ---
 
-## 2023-09-05T01:21:55.893Z 
+## 2023-09-05 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-05T01:21:55.895Z.png)
 
@@ -647,7 +625,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Julio Urias
 ---
 
-## 2023-09-04T01:23:30.479Z 
+## 2023-09-04 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-04T01:23:30.480Z.png)
 
@@ -658,7 +636,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Steve Harwell
 ---
 
-## 2023-09-03T01:25:01.506Z 
+## 2023-09-03 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-03T01:25:01.507Z.png)
 
@@ -669,7 +647,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Michigan football
 ---
 
-## 2023-09-01T01:25:54.894Z 
+## 2023-09-01 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-09-01T01:25:54.896Z.png)
 
@@ -680,7 +658,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Ruby Franke
 ---
 
-## 2023-08-30T01:22:46.943Z 
+## 2023-08-30 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-30T01:22:46.944Z.png)
 
@@ -691,7 +669,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. 3M earplugs lawsuit
 ---
 
-## 2023-08-29T01:23:08.109Z 
+## 2023-08-29 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-29T01:23:08.109Z.png)
 
@@ -702,7 +680,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Zach Bryan
 ---
 
-## 2023-08-28T01:23:16.362Z 
+## 2023-08-28 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-28T01:23:16.362Z.png)
 
@@ -713,7 +691,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Man City
 ---
 
-## 2023-08-27T01:24:46.483Z 
+## 2023-08-27 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-27T01:24:46.484Z.png)
 
@@ -724,7 +702,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. College football
 ---
 
-## 2023-08-26T01:20:30.716Z 
+## 2023-08-26 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-26T01:20:30.716Z.png)
 
@@ -735,7 +713,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Chelsea
 ---
 
-## 2023-08-25T01:22:42.390Z 
+## 2023-08-25 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-25T01:22:42.391Z.png)
 
@@ -746,7 +724,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Steelers
 ---
 
-## 2023-08-24T01:21:29.365Z 
+## 2023-08-24 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-24T01:21:29.366Z.png)
 
@@ -757,7 +735,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Nvidia stock
 ---
 
-## 2023-08-23T01:21:38.635Z 
+## 2023-08-23 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-23T01:21:38.636Z.png)
 
@@ -768,7 +746,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Al Nassr
 ---
 
-## 2023-08-21T01:21:32.756Z 
+## 2023-08-21 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-21T01:21:32.756Z.png)
 
@@ -779,7 +757,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Detroit Lions
 ---
 
-## 2023-08-20T01:23:26.707Z 
+## 2023-08-20 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-20T01:23:26.707Z.png)
 
@@ -790,7 +768,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Liverpool
 ---
 
-## 2023-08-19T01:19:51.155Z 
+## 2023-08-19 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-19T01:19:51.156Z.png)
 
@@ -801,7 +779,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Mike Tyson
 ---
 
-## 2023-08-18T01:21:26.156Z 
+## 2023-08-18 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-18T01:21:26.156Z.png)
 
@@ -812,7 +790,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Wander Franco news
 ---
 
-## 2023-08-17T01:20:33.940Z 
+## 2023-08-17 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-17T01:20:33.941Z.png)
 
@@ -823,7 +801,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Rome Trevi Fountain
 ---
 
-## 2023-08-15T01:21:54.446Z 
+## 2023-08-15 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-15T01:21:54.447Z.png)
 
@@ -834,7 +812,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Manchester United
 ---
 
-## 2023-08-14T01:22:27.738Z 
+## 2023-08-14 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-14T01:22:27.738Z.png)
 
@@ -845,7 +823,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Chiefs
 ---
 
-## 2023-08-13T01:24:09.579Z 
+## 2023-08-13 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-13T01:24:09.579Z.png)
 
@@ -856,7 +834,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Al Nassr
 ---
 
-## 2023-08-12T01:20:25.289Z 
+## 2023-08-12 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-12T01:20:25.289Z.png)
 
@@ -867,7 +845,7 @@ This piece depicts the electrifying momentum of the 49ers and Europa League thro
 1. Steelers
 ---
 
-## 2023-08-10T01:28:59.233Z 
+## 2023-08-10 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-10T01:28:59.234Z.png)
 
@@ -880,7 +858,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Robbie Robertson
 ---
 
-## 2023-08-09T01:28:33.104Z 
+## 2023-08-09 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-09T01:28:33.105Z.png)
 
@@ -891,7 +869,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. International Cat Day
 ---
 
-## 2023-08-08T01:28:32.417Z 
+## 2023-08-08 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-08T01:28:32.418Z.png)
 
@@ -902,7 +880,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Tory Lanez
 ---
 
-## 2023-08-07T01:28:43.030Z 
+## 2023-08-07 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-07T01:28:43.031Z.png)
 
@@ -913,7 +891,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Cleveland Guardians
 ---
 
-## 2023-08-06T01:26:28.942Z 
+## 2023-08-06 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-06T01:26:28.943Z.png)
 
@@ -924,7 +902,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Jamie Foxx
 ---
 
-## 2023-08-05T01:27:56.983Z 
+## 2023-08-05 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-05T01:27:56.984Z.png)
 
@@ -935,7 +913,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Dolly Parton
 ---
 
-## 2023-08-01T02:40:24.317Z 
+## 2023-08-01 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-08-01T02:40:24.318Z.png)
 
@@ -946,7 +924,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Lori Vallow
 ---
 
-## 2023-07-30T01:28:46.412Z 
+## 2023-07-30 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-30T01:28:46.413Z.png)
 
@@ -957,7 +935,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Max Scherzer
 ---
 
-## 2023-07-29T01:28:08.267Z 
+## 2023-07-29 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-29T01:28:08.268Z.png)
 
@@ -968,7 +946,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Nathaniel Hackett
 ---
 
-## 2023-07-28T01:28:20.049Z 
+## 2023-07-28 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-28T01:28:20.050Z.png)
 
@@ -979,7 +957,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Shohei Ohtani
 ---
 
-## 2023-07-24T01:29:18.057Z 
+## 2023-07-24 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-24T01:29:18.057Z.png)
 
@@ -990,7 +968,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Special Ops: Lioness
 ---
 
-## 2023-07-23T05:05:32.046Z 
+## 2023-07-23 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-23T05:05:32.052Z.png)
 
@@ -1001,7 +979,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Barcelona vs Juventus
 ---
 
-## 2023-07-22T01:29:13.281Z 
+## 2023-07-22 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-22T01:29:13.281Z.png)
 
@@ -1012,7 +990,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Lana Del Rey
 ---
 
-## 2023-07-21T01:29:15.676Z 
+## 2023-07-21 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-21T01:29:15.676Z.png)
 
@@ -1023,7 +1001,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Kevin Mitnick
 ---
 
-## 2023-07-20T01:29:01.763Z 
+## 2023-07-20 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-20T01:29:01.764Z.png)
 
@@ -1034,7 +1012,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Ron DeSantis
 ---
 
-## 2023-07-19T05:58:39.223Z 
+## 2023-07-19 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-19T05:58:39.224Z.png)
 
@@ -1045,7 +1023,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Gigi Hadid
 ---
 
-## 2023-07-18T02:59:21.260Z 
+## 2023-07-18 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-18T02:59:21.265Z.png)
 
@@ -1056,29 +1034,7 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Miranda Lambert
 ---
 
-## 2023-07-17T02:15:37.229Z 
-
-![Daily Dall-E](./archive/daily-dall-e-2023-07-17T02:15:37.231Z.png)
-
-> In the style of Claude Monet: "A serene and impressionistic painting of the famous Henman Hill at Wimbledon, with the greenery and audience in soft focus, inspired by the artist's love for the tournament's traditional elegance."
-
-1. Wimbledon
-1. Mexico vs Panama
-1. Birkin bag
----
-
-## 2023-07-17T02:00:57.221Z 
-
-![Daily Dall-E](./archive/daily-dall-e-2023-07-17T02:00:57.222Z.png)
-
-> In the style of Vincent Van Gogh, "A vibrant olive green Birkin bag is nestled against a colorful garden backdrop, as tennis players and passionate soccer fans engage in their respective matches in the vast fields of Wimbledon and Mexico City."
-
-1. Wimbledon
-1. Mexico vs Panama
-1. Birkin bag
----
-
-## 2023-07-17T01:24:51.452Z 
+## 2023-07-17 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-07-17T01:24:51.454Z.png)
 
@@ -1087,25 +1043,3 @@ Visions of a tormented landscape manifest in a surreal masterpiece, where Lil Ta
 1. Wimbledon
 1. Mexico vs Panama
 1. Birkin bag
----
-
-## 2023-07-17T01:21:40.915Z 
-
-![Daily Dall-E](./archive/daily-dall-e-2023-07-17T01:21:40.916Z.png)
-
-> In the style of Salvador Dalí: A melting Birkin bag with tennis balls and a soccer ball pouring out, representing the merging of high fashion, sports, and culture.
-
-1. Wimbledon
-1. Mexico vs Panama
-1. Birkin bag
----
-
-## 2023-07-17T00:43:15.962Z 
-
-![Daily Dall-E](./archive/daily-dall-e-2023-07-17T00:43:15.972Z.png)
-
-> An intricate watercolor painting depicting a fierce tennis match at Wimbledon, with one player holding a Birkin bag in a comically exaggerated manner, while two Mexican wrestlers cheer loudly in the background.
-
-1. Wimbledon
-1. Birkin bag
-1. Mexico vs Panama

@@ -68,7 +68,7 @@ const outputFile = "./README.md";
 const contents = await Deno.readTextFile(outputFile);
 
 const readmeContents = `
-## ${date}
+## ${date.substring(0, 10)}
 
 ![Daily Dall-E](${archiveFilepath})
 
