@@ -1,4 +1,16 @@
 
+## 2023-11-12
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-12T18:41:16.157Z.png)
+
+> In the style of Vincent Van Gogh: 
+A vibrant and tumultuous depiction of a fierce battle between the Patriots and the Warriors, with Coach Jimbo Fisher standing stoically on the sidelines, all rendered in Van Gogh's iconic swirling brushstrokes.
+
+1. Patriots
+1. Warriors
+1. Jimbo Fisher
+---
+
 ## 2023-11-12 
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-12T01:06:59.563Z.png)
