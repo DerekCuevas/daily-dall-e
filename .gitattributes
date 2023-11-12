@@ -1,1 +1,2 @@
 test/**/*.png filter=lfs diff=lfs merge=lfs -text
+archive/**/*.png filter=lfs diff=lfs merge=lfs -text
