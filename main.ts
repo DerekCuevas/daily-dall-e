@@ -44,12 +44,14 @@ const imageURL = image.data[0].url;
 
 console.log(`Generated: ${imageURL}`);
 
+const date = new Date().toISOString();
+
 await Deno.writeTextFile(
-  `./data/daily-dall-e-${new Date().toISOString()}.json`,
+  `./data/daily-dall-e-${date}.json`,
   JSON.stringify({ topThree, imagePrompt, imageURL }, null, 2)
 );
 
-const archiveFilepath = `./archive/daily-dall-e-${new Date().toISOString()}.png`;
+const archiveFilepath = `./archive/daily-dall-e-${date}.png`;
 const archiveFile = await Deno.open(archiveFilepath, {
   write: true,
   create: true,
@@ -62,8 +64,11 @@ if (imageURL) {
   }
 }
 
+const outputFile = "./README.md";
+const contents = await Deno.readTextFile(outputFile);
+
 const readmeContents = `
-# Daily Dall-E
+## ${date}
 
 ![Daily Dall-E](${archiveFilepath})
 
@@ -72,5 +77,5 @@ const readmeContents = `
 ${topThree.map((t) => `1. ${t}`).join("\n")}
 `;
 
-await Deno.writeTextFile("./README.md", readmeContents);
+await Deno.writeTextFile(outputFile, [readmeContents, contents].join("---\n"));
 console.log("Complete.");

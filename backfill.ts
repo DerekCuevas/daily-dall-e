@@ -1,13 +1,24 @@
 const posts = [];
-const outputFile = "./ARCHIVE.md";
+const outputFile = "./README.md";
 
 const dataDir = "./data";
 const archiveDir = "./archive";
+const archiveImageFileLookup: { [k in string]: string } = {};
+
+function getDatePrefix(date: string): string {
+  return date.substring(0, date.length - 6);
+}
+
+for await (const file of Deno.readDir(archiveDir)) {
+  if (!file.isFile) continue;
+
+  const date = file.name.replace("daily-dall-e-", "").replace(".png", "");
+
+  archiveImageFileLookup[getDatePrefix(date)] = `${archiveDir}/${file.name}`;
+}
 
 for await (const file of Deno.readDir(dataDir)) {
   if (!file.isFile) continue;
-
-  console.log(file.name);
 
   const contents = await Deno.readTextFile(`${dataDir}/${file.name}`);
 
@@ -17,25 +28,23 @@ for await (const file of Deno.readDir(dataDir)) {
     imageURL: string;
   } = JSON.parse(contents);
 
-  const archiveFilepath = `${archiveDir}/${file.name.replace(".json", ".png")}`;
+  const date = file.name.replace("daily-dall-e-", "").replace(".json", "");
 
-  console.log(archiveFilepath);
+  const archiveImageFile = archiveImageFileLookup[getDatePrefix(date)];
 
-  const date = new Date(
-    file.name.replace("daily-dall-e-", "").replace(".json", "")
-  );
+  if (!archiveImageFile) continue;
 
   const readmeContents = `
-## ${date.toISOString()} 
+## ${date} 
 
-![Daily Dall-E](${archiveFilepath})
+![Daily Dall-E](${archiveImageFile})
 
 > ${data.imagePrompt}
 
 ${data.topThree.map((t) => `1. ${t}`).join("\n")}
 `;
 
-  posts.push({ date, readmeContents });
+  posts.push({ date: new Date(date), readmeContents });
 }
 
 posts.sort((a, b) => b.date.getTime() - a.date.getTime());
