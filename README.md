@@ -1,4 +1,18 @@
 
+## 2023-11-13
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-13T01:25:58.468Z.png)
+
+> Title: "Celebrity Mixer"
+Description: A colorful and quirky painting featuring mashed-up and distorted portraits of Jimbo Fisher, a New England Patriot, and a member of the Ohio State football team at a fun-filled celebrity party.
+
+1. 49ers
+1. Patriots
+1. Jimbo Fisher
+1. Ohio State football
+1. Steelers
+---
+
 ## 2023-11-12
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-12T19:16:43.025Z.png)
