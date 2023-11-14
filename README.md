@@ -1,4 +1,17 @@
 
+## 2023-11-14
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-14T01:24:53.771Z.png)
+
+> "Broken Government" - A mixed media portrait of Suella Braverman with fragmented and overlapping newspaper clippings of the escalating government shutdown and political turmoil in the background.
+
+1. Lakers
+1. Government shutdown
+1. Seattle Seahawks
+1. Nuggets
+1. Suella Braverman
+---
+
 ## 2023-11-13
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-13T01:25:58.468Z.png)
