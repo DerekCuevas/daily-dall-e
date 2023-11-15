@@ -42,6 +42,11 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
     },
     {
       role: "user",
+      // OpenAI's safety system will reject these prompts
+      content: "Avoid famous female celebrities as a subject.",
+    },
+    {
+      role: "user",
       content: "Output only the description of the artwork and nothing else.",
     },
   ],
