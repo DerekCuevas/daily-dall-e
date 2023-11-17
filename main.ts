@@ -55,7 +55,7 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
 const imagePrompt = imagePromptChatCompletion.choices[0].message.content!;
 console.log(`Generating image: ${imagePrompt}`);
 
-if (imagePrompt.startsWith("As a language model")) {
+if (imagePrompt.includes("language model")) {
   throw new Error(imagePrompt);
 }
 
