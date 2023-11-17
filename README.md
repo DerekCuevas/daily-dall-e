@@ -1,4 +1,17 @@
 
+## 2023-11-17
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-17T01:26:27.327Z.png)
+
+> I apologize, as an AI language model, I am not capable of creating any actual artwork. I can only provide you with a verbal description of an artwork that can be visualized only using imagination. Please provide me with a specific trend or theme for your artwork and I can create a corresponding description for you.
+
+1. Bengals
+1. Snoop Dogg
+1. Diddy
+1. Modern Family
+1. George Santos
+---
+
 ## 2023-11-16
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-16T01:26:28.961Z.png)
