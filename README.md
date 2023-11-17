@@ -38,19 +38,6 @@
 1. Peter Seidler
 ---
 
-## 2023-11-15
-
-![Daily Dall-E](./archive/daily-dall-e-2023-11-15T02:58:47.434Z.png)
-
-> "Inspired by the legendary pop artist Andy Warhol, this mixed media creation manifests the powerful yet controversial energy of Oklahoma Senator Markwayne Mullin's political landscape through vivid reds and blues, accentuated by iconic comic-style thought and speech bubbles."
-
-1. Matt Petgrave
-1. Markwayne Mullin
-1. Ken Dorsey
-1. Billie Eilish
-1. Peter Seidler
----
-
 ## 2023-11-14
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-14T01:24:53.771Z.png)
