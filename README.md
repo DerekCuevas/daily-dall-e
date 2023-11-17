@@ -1,4 +1,17 @@
 
+## 2023-11-17
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-17T03:51:32.990Z.png)
+
+> "Starbucks Rebellion" - A mixed media piece showcasing a sea of striking Starbucks workers holding red cups and signs protesting against unfair labor practices, while Snoop Dogg and Diddy stand in solidarity at the forefront.
+
+1. Bengals
+1. Starbucks Red Cup Day
+1. Snoop Dogg
+1. Diddy
+1. George Santos
+---
+
 ## 2023-11-16
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-16T01:26:28.961Z.png)
