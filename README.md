@@ -1,4 +1,17 @@
 
+## 2023-11-18
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-18T01:25:33.131Z.png)
+
+> "In the style of Leonardo da Vinci, I present to you 'The Sudden Departure of Sam Altman' - an intense oil painting depicting the ousting of OpenAI's CEO from his position."
+
+1. Sam Altman
+1. Charissa Thompson
+1. Thanksgiving movie
+1. Jimmy Carter
+1. Scott Pilgrim anime
+---
+
 ## 2023-11-17
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-17T03:51:32.990Z.png)
