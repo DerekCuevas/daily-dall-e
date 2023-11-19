@@ -1,9 +1,9 @@
 
 ## 2023-11-19
 
-![Daily Dall-E](./archive/daily-dall-e-2023-11-19T03:01:52.929Z.png)
+![Daily Dall-E](./archive/daily-dall-e-2023-11-19T03:27:06.264Z.png)
 
-> "Jolene's Universe" - a mixed media piece featuring a collage of Miss Universe contestants surrounded by lyrics and imagery inspired by Dolly Parton and her song "Jolene".
+> "Immersed in a swirling vortex of cool-toned acrylics, a tender portrait of Jordan Travis gazes outwards - symbolic, immutable - in a style distinctly reminiscent of the emotionally charged works of Pablo Picasso."
 
 1. USC Football
 1. Miss Universe 2023
