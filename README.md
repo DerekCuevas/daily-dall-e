@@ -1,4 +1,17 @@
 
+## 2023-11-19
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-19T03:01:52.929Z.png)
+
+> "Jolene's Universe" - a mixed media piece featuring a collage of Miss Universe contestants surrounded by lyrics and imagery inspired by Dolly Parton and her song "Jolene".
+
+1. USC Football
+1. Miss Universe 2023
+1. Jordan Travis
+1. Taylor Swift Brazil fan death
+1. Dolly Parton
+---
+
 ## 2023-11-18
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-18T01:25:33.131Z.png)
