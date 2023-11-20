@@ -1,4 +1,17 @@
 
+## 2023-11-20
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-20T01:26:35.310Z.png)
+
+> "The Lion's Roar" - A vibrant and colorful painting depicting a majestic lion proudly roaring, paying homage to the recent trend of lions in pop culture.
+
+1. Jimmy Carter
+1. Lions
+1. Cricket World Cup
+1. Cowboys vs Panthers
+1. Miami Dolphins
+---
+
 ## 2023-11-19
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-19T03:27:06.264Z.png)

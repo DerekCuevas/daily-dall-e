@@ -1,0 +1,149 @@
+{
+  "topTrends": [
+    {
+      "query": "Jimmy Carter",
+      "articles": [
+        {
+          "title": "Rosalynn Carter, mental health activist, humanitarian and former first ..."
+        },
+        {
+          "title": "Rosalynn Carter, transformative former first lady and mental health ..."
+        },
+        {
+          "title": "Former First Lady Rosalynn Carter Passes Away at Age 96"
+        },
+        {
+          "title": "Rosalynn Carter, wife of Jimmy Carter and former first lady, dies ..."
+        },
+        {
+          "title": "Secrets shared by Jimmy and Rosalynn Carter on their nearly 8 ..."
+        },
+        {
+          "title": "Former US first lady Rosalynn Carter dies at 96"
+        },
+        {
+          "title": "Jimmy Carter remains in hospice care after Rosalynn Carter&#39;s death ..."
+        }
+      ]
+    },
+    {
+      "query": "Lions",
+      "articles": [
+        {
+          "title": "RECAP: Lions vs. Bears"
+        },
+        {
+          "title": "Lions QB Jared Goff shrugs off boos, three INTs to lead comeback ..."
+        },
+        {
+          "title": "Rapid Recap: Bears drop heartbreaker to Lions"
+        },
+        {
+          "title": "5 things to watch: Lions vs. Bears"
+        },
+        {
+          "title": "Jared Goff: Lions&#39; comeback win vs. Bears &#39;sign of good team&#39; - ESPN"
+        },
+        {
+          "title": "NFC North-leading Lions rally from 12-point deficit late to beat Bears ..."
+        },
+        {
+          "title": "Detroit Lions vs. Chicago Bears: How to watch NFL online, TV ..."
+        },
+        {
+          "title": "Takeaways from Lions&#39; stunning win against Chicago"
+        },
+        {
+          "title": "Lions storm back to stun Bears"
+        },
+        {
+          "title": "Bears vs. Lions Livestream: How to Watch NFL Week 11 Online Today"
+        }
+      ]
+    },
+    {
+      "query": "Cricket World Cup",
+      "articles": [
+        {
+          "title": "Australia wins record-extending sixth Cricket World Cup as host ..."
+        },
+        {
+          "title": "Australia halt India juggernaut to win sixth World Cup title"
+        },
+        {
+          "title": "Shastri and Manjrekar react to Australia&#39;s Cricket World Cup win ..."
+        },
+        {
+          "title": "Australia beats India in Cricket World Cup final"
+        },
+        {
+          "title": "Heartbreak for Kohli and India as Australia wins the Cricket World ..."
+        },
+        {
+          "title": "India vs Australia LIVE: Cricket World Cup final reaction after Travis ..."
+        },
+        {
+          "title": "Australia Beats India To Win Cricket World Cup For Sixth Time"
+        }
+      ]
+    },
+    {
+      "query": "Cowboys vs Panthers",
+      "articles": [
+        {
+          "title": "Cowboys vs. Panthers score, takeaways: DaRon Bland ties NFL ..."
+        },
+        {
+          "title": "Cowboys vs. Panthers Livestream: How to Watch NFL Week 11 ..."
+        },
+        {
+          "title": "Dallas Cowboys vs. Carolina Panthers: NFL Week 11 Odds, Lines ..."
+        },
+        {
+          "title": "Dallas Cowboys Lead Carolina Panthers 17-3: 3Q Live Game Updates"
+        },
+        {
+          "title": "Cowboys vs Panthers final score: Dallas gets blowout win in Week 11"
+        },
+        {
+          "title": "Rapid Reactions: Panthers fall at home to Cowboys"
+        },
+        {
+          "title": "Cowboys vs. Panthers week 11 preview"
+        }
+      ]
+    },
+    {
+      "query": "Miami Dolphins",
+      "articles": [
+        {
+          "title": "Las Vegas Raiders Week 11 Inactives vs. Miami Dolphins"
+        },
+        {
+          "title": "Game Recap: Dolphins Defense Records Three Interceptions, Holds ..."
+        },
+        {
+          "title": "NFL Week 11 Game Recap: Miami Dolphins 20, Las Vegas Raiders ..."
+        },
+        {
+          "title": "Watch Miami Dolphins vs. Las Vegas Raiders: How to live stream ..."
+        },
+        {
+          "title": "Raiders vs. Dolphins Live Game Updates, Analysis"
+        },
+        {
+          "title": "Quick Snap: Raiders drop road game to Dolphins"
+        },
+        {
+          "title": "Defense helps Dolphins overcome mistakes in victory over the Raiders"
+        },
+        {
+          "title": "Dolphins 20-13 Raiders (Nov 19, 2023) Game Recap - ESPN"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "\"The Lion's Roar\" - A vibrant and colorful painting depicting a majestic lion proudly roaring, paying homage to the recent trend of lions in pop culture.",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-wKRJ2yWswk3P8noU9BPGrQK2.png?st=2023-11-20T00%3A26%3A35Z&se=2023-11-20T02%3A26%3A35Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-19T20%3A21%3A20Z&ske=2023-11-20T20%3A21%3A20Z&sks=b&skv=2021-08-06&sig=/J/I2TDJ7G9sJVGv/QlOW/3tSh8/VenaxMuZCEqrVOc%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-11-20T01:26:35.310Z.png"
+}
