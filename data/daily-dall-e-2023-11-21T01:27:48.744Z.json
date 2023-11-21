@@ -1,0 +1,143 @@
+{
+  "topTrends": [
+    {
+      "query": "OpenAI",
+      "articles": [
+        {
+          "title": "OpenAI Staff Threatens Exodus, Jeopardizing Company&#39;s Future"
+        },
+        {
+          "title": "Sam Altman joins Microsoft as OpenAI names its third CEO in 3 days"
+        },
+        {
+          "title": "Exclusive: OpenAI investors considering suing the board after CEO&#39;s ..."
+        },
+        {
+          "title": "OpenAI employees threaten to quit en masse after former CEO Sam ..."
+        },
+        {
+          "title": "Hundreds of OpenAI workers threaten to quit unless Sam Altman is ..."
+        },
+        {
+          "title": "What&#39;s next for OpenAI"
+        },
+        {
+          "title": "Who Is Emmett Shear, OpenAI&#39;s New CEO?"
+        },
+        {
+          "title": "¿Quién es Emmett Shear, el nuevo CEO de OpenAI tras el despido ..."
+        },
+        {
+          "title": "Microsoft contrata a Sam Altman; nuevo CEO de OpenAI investiga ..."
+        },
+        {
+          "title": "Cientos De Empleados De OpenAI Amenazan Con Renunciar E Irse ..."
+        }
+      ]
+    },
+    {
+      "query": "Joe Biden",
+      "articles": [
+        {
+          "title": "Biden celebrates birthday as polls show struggles against Trump"
+        },
+        {
+          "title": "Joe Biden Confuses Taylor Swift With Britney Spears During Speech"
+        },
+        {
+          "title": "Joe Biden cracks jokes about age at 81st birthday celebration: &#39;I just ..."
+        },
+        {
+          "title": "President Joe Biden turns 81 as concerns about his age hang over ..."
+        },
+        {
+          "title": "Biden&#39;s birthday prompts debate about age and wisdom of America&#39;s ..."
+        },
+        {
+          "title": "Joe Biden Turns 81, Setting New Record as Oldest Sitting President ..."
+        },
+        {
+          "title": "Biden confuses Taylor Swift with Britney Spears in remarks on his ..."
+        },
+        {
+          "title": "Joe Biden Pardons Turkeys Liberty and Bell in Annual Thanksgiving ..."
+        },
+        {
+          "title": "President Joe Biden pardons two Willmar turkeys, sparing them from ..."
+        },
+        {
+          "title": "Biden turns 81 as questions about age continue to dominate 2024 ..."
+        }
+      ]
+    },
+    {
+      "query": "Joe Flacco",
+      "articles": [
+        {
+          "title": "Browns sign QB Joe Flacco to the practice squad"
+        },
+        {
+          "title": "Joe Flacco signs with Browns. Former Super Bowl MVP gives team ..."
+        },
+        {
+          "title": "Cleveland Browns add Joe Flacco to practice squad as quarterback ..."
+        },
+        {
+          "title": "Joe Flacco to sign to practice squad, add experience to QB room"
+        },
+        {
+          "title": "It&#39;s official: Joe Flacco joins Browns&#39; practice squad"
+        },
+        {
+          "title": "Browns officially sign QB Joe Flacco"
+        },
+        {
+          "title": "NFL Exec Questions Joe Flacco&#39;s Ability to Throw the Ball Now amid ..."
+        }
+      ]
+    },
+    {
+      "query": "MSFT",
+      "articles": [
+        {
+          "title": "Microsoft (MSFT) Xbox Opens Pre-Orders for Railbreak Shooter"
+        }
+      ]
+    },
+    {
+      "query": "Brandon Staley",
+      "articles": [
+        {
+          "title": "Rex Ryan: UST-turned-Chargers head coach Brandon Staley ..."
+        },
+        {
+          "title": "Chargers Links: Head coach Brandon Staley press conference after ..."
+        },
+        {
+          "title": "Los Angeles Chargers&#39; Brandon Staley Gets Defensive In Another ..."
+        },
+        {
+          "title": "Chargers review: Brandon Staley&#39;s defense reaches a breaking point"
+        },
+        {
+          "title": "Brandon Staley doesn&#39;t have much time to answer why Chargers ..."
+        },
+        {
+          "title": "NFL insider all but confirms Chargers won&#39;t fire Brandon Staley with ..."
+        },
+        {
+          "title": "Identifying Top Los Angeles Chargers Coaching Candidates To ..."
+        },
+        {
+          "title": "Rex Ryan has some harsh words for Chargers coach Brandon Staley"
+        },
+        {
+          "title": "Brandon Staley on Chargers loss vs. Packers: “I&#39;m fully responsible ..."
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "Artwork Description: \n\nIn the style of Andy Warhol, a portrait of Joe Biden is featured with his infamous quote \"I'm not joking.\"",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-BML1Lk0eKL5OZpm9EEo2c7RD.png?st=2023-11-21T00%3A27%3A48Z&se=2023-11-21T02%3A27%3A48Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-20T20%3A33%3A19Z&ske=2023-11-21T20%3A33%3A19Z&sks=b&skv=2021-08-06&sig=kGbvhSll1ESPm8tgUuHH7c2kSECa2Nk3iZLHtUzEBSg%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-11-21T01:27:48.744Z.png"
+}

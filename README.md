@@ -1,4 +1,19 @@
 
+## 2023-11-21
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-21T01:27:48.744Z.png)
+
+> Artwork Description: 
+
+In the style of Andy Warhol, a portrait of Joe Biden is featured with his infamous quote "I'm not joking."
+
+1. OpenAI
+1. Joe Biden
+1. Joe Flacco
+1. MSFT
+1. Brandon Staley
+---
+
 ## 2023-11-20
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-20T01:26:35.310Z.png)
