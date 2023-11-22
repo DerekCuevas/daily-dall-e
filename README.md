@@ -1,4 +1,17 @@
 
+## 2023-11-22
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-22T01:27:16.395Z.png)
+
+> "NVDA's Rebirth": A digital painting featuring a phoenix reborn from the ashes of a laptop with NVIDIA's logo, symbolizing the company's resurrection and stock surge.
+
+1. Eagles vs chiefs
+1. Matt Canada
+1. Matt Rife
+1. NVDA stock
+1. Warriors
+---
+
 ## 2023-11-21
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-21T01:27:48.744Z.png)
