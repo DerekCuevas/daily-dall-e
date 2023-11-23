@@ -1,4 +1,17 @@
 
+## 2023-11-23
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-23T01:25:55.143Z.png)
+
+> "In Shades of Rainbow": An abstract painting featuring a colorful spectrum, symbolizing hope and unity despite recent tragedy.
+
+1. Rainbow Bridge
+1. Daryl Hall and John Oates
+1. JFK
+1. Squid Game Season 2
+1. UNC basketball
+---
+
 ## 2023-11-22
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-22T01:27:16.395Z.png)
