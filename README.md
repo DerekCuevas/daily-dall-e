@@ -1,4 +1,19 @@
 
+## 2023-11-24
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-24T01:24:51.814Z.png)
+
+> Title: Thanksgiving Reverie
+
+Description: A vivid, vibrant, and whimsical painting featuring a cornucopia overflowing with green bean casseroles, surrounded by whimsical caricatures of the famous cowboy mascot of the Dallas Cowboys and the well-loved country musician Dolly Parton, while showcasing the heartwarming Thanksgiving scene of families gathered around a table.
+
+1. NFL
+1. Dolly Parton
+1. Josh Giddey
+1. Green bean casserole
+1. Thanksgiving
+---
+
 ## 2023-11-23
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-23T01:25:55.143Z.png)
