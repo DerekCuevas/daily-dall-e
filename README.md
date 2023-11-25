@@ -1,4 +1,17 @@
 
+## 2023-11-25
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-25T01:24:17.220Z.png)
+
+> "The Trend Setters" - A pop art piece featuring models wearing UGG boots and oversized hoodies, walking down the streets of a college town, with bold and vibrant colors.
+
+1. Iowa football
+1. UGG
+1. Oklahoma football
+1. College Football
+1. Arkansas football
+---
+
 ## 2023-11-24
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-24T01:24:51.814Z.png)
