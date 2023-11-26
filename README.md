@@ -1,4 +1,17 @@
 
+## 2023-11-26
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-26T01:28:01.662Z.png)
+
+> "In the style of Salvador Dali, I present a surrealistic piece where Zak Zinter, with his football gear, scores the winning touchdown against LSU football team, while Brentford and Arsenal players are seen cheering in the background."
+
+1. Premier League
+1. Man City vs Liverpool
+1. Iron Bowl 2023
+1. LSU football
+1. Zak Zinter
+---
+
 ## 2023-11-25
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-25T01:24:17.220Z.png)
