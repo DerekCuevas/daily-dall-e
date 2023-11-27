@@ -1,4 +1,17 @@
 
+## 2023-11-27
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-27T01:26:09.836Z.png)
+
+> "Pop Art Jungle" - A vibrant pop art piece depicting colorful foliage and wildlife from the jungle overlaid with diverse and intricate patterns.
+
+1. Eagles
+1. Chiefs
+1. Saints
+1. Patriots
+1. Bengals
+---
+
 ## 2023-11-26
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-26T01:28:01.662Z.png)
