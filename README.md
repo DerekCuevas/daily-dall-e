@@ -1,4 +1,17 @@
 
+## 2023-11-28
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-28T01:26:46.588Z.png)
+
+> "The Final Chapter" - A dark, moody painting in the style of Edvard Munch, featuring a football helmet with the Carolina Panthers logo lying discarded on the ground as a symbol of the team's disappointing season and the firing of their head coach Frank Reich, with ghost-like silhouettes of Panthers players fading into the background.
+
+1. Frank Reich
+1. Atlanta Falcons
+1. Champions League
+1. Jason J. Eaton
+1. Knicks
+---
+
 ## 2023-11-27
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-27T01:26:09.836Z.png)

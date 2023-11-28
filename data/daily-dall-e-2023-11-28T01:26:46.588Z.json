@@ -1,0 +1,83 @@
+{
+  "topTrends": [
+    {
+      "query": "Frank Reich",
+      "articles": [
+        {
+          "title": "Panthers fire Frank Reich after 1-10 start to first season in Carolina"
+        },
+        {
+          "title": "Panthers part ways with head coach Frank Reich"
+        },
+        {
+          "title": "Carolina Panthers fire head coach Frank Reich - ESPN"
+        },
+        {
+          "title": "Panthers fire Frank Reich in his first season with team off to NFL ..."
+        },
+        {
+          "title": "Panthers fire head coach Frank Reich after 1-10 start"
+        },
+        {
+          "title": "Frank Reich talks Panthers firing, says &#39;probably the final chapter&#39; in ..."
+        },
+        {
+          "title": "Panthers fire Frank Reich: Ranking seven head coach candidates ..."
+        }
+      ]
+    },
+    {
+      "query": "Atlanta Falcons",
+      "articles": [
+        {
+          "title": "Empty Seats And Losses For Atlanta Falcons Will Trigger Job ..."
+        }
+      ]
+    },
+    {
+      "query": "Champions League",
+      "articles": [
+        {
+          "title": "Hallock, Gruwell Qualify For Champions League Final Eight"
+        }
+      ]
+    },
+    {
+      "query": "Jason J. Eaton",
+      "articles": [
+        {
+          "title": "Vermont man charged with attempted murder in shooting of students ..."
+        },
+        {
+          "title": "Vermont Man Charged With Attempted Murder for Shootings of ..."
+        },
+        {
+          "title": "Vermont Shooting Suspect Jason Eaton Was Harvard Intern and ..."
+        },
+        {
+          "title": "Video: Burlington, Vermont, shooting suspect Jason J. Eaton ..."
+        },
+        {
+          "title": "Arrest made in shooting of 3 men of Palestinian descent in ..."
+        },
+        {
+          "title": "Live Updates: Suspect arrested in shooting of students of ..."
+        },
+        {
+          "title": "Suspect pleads not guilty after three men of Palestinian descent shot ..."
+        }
+      ]
+    },
+    {
+      "query": "Knicks",
+      "articles": [
+        {
+          "title": "Who Wore It Best? Knicks #5"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "\"The Final Chapter\" - A dark, moody painting in the style of Edvard Munch, featuring a football helmet with the Carolina Panthers logo lying discarded on the ground as a symbol of the team's disappointing season and the firing of their head coach Frank Reich, with ghost-like silhouettes of Panthers players fading into the background.",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-r345mef0eNNjOWbabUdLCvJB.png?st=2023-11-28T00%3A26%3A46Z&se=2023-11-28T02%3A26%3A46Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-27T01%3A42%3A31Z&ske=2023-11-28T01%3A42%3A31Z&sks=b&skv=2021-08-06&sig=erDSujQVgTlwdWfwTWDipI7aJisf0Zcc4k5MHdy9eAo%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-11-28T01:26:46.588Z.png"
+}
