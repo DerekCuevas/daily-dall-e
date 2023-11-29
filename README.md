@@ -1,4 +1,17 @@
 
+## 2023-11-29
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-29T01:26:43.376Z.png)
+
+> "In the spirit of Pablo Picasso's cubism, this piece portrays former president Jimmy Carter and investor Charlie Munger in a bold and abstract style that captures their influential legacies in a fresh and engaging way."
+
+1. Jimmy Carter
+1. Charlie Munger
+1. Lakers
+1. UEFA Champions League
+1. Patrick Kane
+---
+
 ## 2023-11-28
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-28T01:26:46.588Z.png)

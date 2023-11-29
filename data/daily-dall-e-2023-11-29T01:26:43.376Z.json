@@ -1,0 +1,101 @@
+{
+  "topTrends": [
+    {
+      "query": "Jimmy Carter",
+      "articles": [
+        {
+          "title": "Jimmy Carter attends memorial service for wife of 77 years ..."
+        },
+        {
+          "title": "Rosalynn Carter honored in private tribute service attended by ..."
+        },
+        {
+          "title": "Jimmy Carter to join presidents, first ladies and family in celebrating ..."
+        },
+        {
+          "title": "Rosalynn Carter: Jimmy Carter attends tribute service for wife of 77 ..."
+        },
+        {
+          "title": "&#39;She believed in us and took care of us&#39;: Rosalynn Carter&#39;s loved ..."
+        },
+        {
+          "title": "Jimmy Carter makes rare public appearance at his wife&#39;s memorial"
+        },
+        {
+          "title": "Jimmy Carter, Biden and Clintons pay tribute at Rosalynn Carter ..."
+        }
+      ]
+    },
+    {
+      "query": "Charlie Munger",
+      "articles": [
+        {
+          "title": "Investor Charlie Munger, the longtime business partner of Warren ..."
+        },
+        {
+          "title": "Charlie Munger, who was Warren Buffett&#39;s right-hand man at ..."
+        },
+        {
+          "title": "Charlie Munger, Warren Buffet&#39;s sidekick at Berkshire Hathaway ..."
+        },
+        {
+          "title": "Charlie Munger, friend and business partner of Warren Buffett, dies"
+        },
+        {
+          "title": "Charlie Munger, investing genius and Warren Buffett&#39;s right-hand ..."
+        },
+        {
+          "title": "Charlie Munger, legendary investor and Warren Buffett&#39;s deputy at ..."
+        },
+        {
+          "title": "Charlie Munger, Warren Buffett&#39;s right-hand man at Berkshire ..."
+        }
+      ]
+    },
+    {
+      "query": "Lakers",
+      "articles": [
+        {
+          "title": "Holiday Skate with the Lakers fundraiser set for Dec. 10"
+        }
+      ]
+    },
+    {
+      "query": "UEFA Champions League",
+      "articles": [
+        {
+          "title": "Alineaciones probables de la quinta jornada de la UEFA ..."
+        }
+      ]
+    },
+    {
+      "query": "Patrick Kane",
+      "articles": [
+        {
+          "title": "Patrick Kane signs deal with Red Wings - ESPN"
+        },
+        {
+          "title": "Motown bound! Patrick Kane signs one-year deal with Detroit Red ..."
+        },
+        {
+          "title": "Patrick Kane, Red Wings agree to 1-year deal, per sources: How he ..."
+        },
+        {
+          "title": "Ex-Blackhawks Stanley Cup champ Patrick Kane signing with Red ..."
+        },
+        {
+          "title": "Former Blackhawks star Patrick Kane makes free agent decision ..."
+        },
+        {
+          "title": "Patrick Kane reportedly signing one-year deal with Red Wings"
+        },
+        {
+          "title": "Report: Patrick Kane signing with the Detroit Red Wings"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "\"In the spirit of Pablo Picasso's cubism, this piece portrays former president Jimmy Carter and investor Charlie Munger in a bold and abstract style that captures their influential legacies in a fresh and engaging way.\"",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-06qoO1O8ylaWxLOpL1SOwYD4.png?st=2023-11-29T00%3A26%3A43Z&se=2023-11-29T02%3A26%3A43Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-11-28T18%3A36%3A22Z&ske=2023-11-29T18%3A36%3A22Z&sks=b&skv=2021-08-06&sig=gOYi0f7R0Gm8k8vFKhL4yQ9L9KABTF1Auc/rAoQcCBA%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-11-29T01:26:43.376Z.png"
+}
