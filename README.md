@@ -1,4 +1,17 @@
 
+## 2023-11-30
+
+![Daily Dall-E](./archive/daily-dall-e-2023-11-30T01:26:18.010Z.png)
+
+> "Champions Night," a Pop Art style painting featuring iconic soccer clubs, Real Madrid and Napoli, battling it out on the field amidst a colorful and electrifying background.
+
+1. Champions League
+1. Real Madrid
+1. Real Madrid vs Napoli
+1. Arsenal
+1. Aaron Rodgers
+---
+
 ## 2023-11-29
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-29T01:26:43.376Z.png)
