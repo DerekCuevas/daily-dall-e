@@ -1,4 +1,17 @@
 
+## 2023-12-01
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-01T01:28:40.552Z.png)
+
+> "MacGowan's Cybertruck World: A chaotic and colorful digital illustration of Shane MacGowan riding a cybertruck while playing his guitar, surrounded by Europa League football players and golfers competing in the Hero World Challenge, highlighting the late singer-songwriter's love for Irish music, technology, sports, and adventure."
+
+1. Shane MacGowan
+1. Cybertruck
+1. Von Miller
+1. Europa League
+1. Hero World Challenge
+---
+
 ## 2023-11-30
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-11-30T01:26:18.010Z.png)
