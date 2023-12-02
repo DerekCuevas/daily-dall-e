@@ -1,4 +1,17 @@
 
+## 2023-12-02
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-02T01:24:23.239Z.png)
+
+> "Elves on the Supreme Court" - a satirical painting portraying Sandra Day O'Connor as an elf sitting amongst her fellow justices while holding an Elf on the Shelf, commenting on the juxtaposition of the holiday spirit and the seriousness of the judiciary system.
+
+1. Dallas Cowboys
+1. Sandra Day O'Connor
+1. Warriors
+1. Elf On the shelf
+1. Oregon vs Washington
+---
+
 ## 2023-12-01
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-01T01:28:40.552Z.png)
