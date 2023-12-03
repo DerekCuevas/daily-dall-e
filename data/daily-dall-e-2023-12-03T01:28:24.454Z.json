@@ -1,0 +1,137 @@
+{
+  "topTrends": [
+    {
+      "query": "Real Madrid",
+      "articles": [
+        {
+          "title": "Real Madrid 2-0 Granada (Dec 2, 2023) Game Analysis - ESPN"
+        },
+        {
+          "title": "Real Madrid - Granada summary: score, goals and highlights ..."
+        },
+        {
+          "title": "Real Madrid 2-0 Granada: Brahim Diaz and Rodrygo on scoresheet ..."
+        },
+        {
+          "title": "Real Madrid vs Granada: Live stream, TV channel, kick-off time ..."
+        },
+        {
+          "title": "Rodrygo helps Real Madrid keep pace with Girona in Liga title race"
+        },
+        {
+          "title": "Real Madrid 2-0 Granada: Goals and highlights - LaLiga 23/24"
+        },
+        {
+          "title": "Real Madrid player ratings vs Granada: Rodrygo sizzles &amp; Brahim ..."
+        }
+      ]
+    },
+    {
+      "query": "Manchester United",
+      "articles": [
+        {
+          "title": "Newcastle United vs Manchester United 1-0: Premier League – as it ..."
+        },
+        {
+          "title": "Manchester United vs. Newcastle prediction, odds, start time: 2023 ..."
+        },
+        {
+          "title": "Newcastle v Manchester United LIVE: Premier League result and ..."
+        },
+        {
+          "title": "Newcastle United 1-0 Manchester United (Dec 2, 2023) Game ..."
+        },
+        {
+          "title": "How Newcastle beat Manchester United 1-0 in Premier League ..."
+        },
+        {
+          "title": "Newcastle top tepid Manchester United on Anthony Gordon goal"
+        },
+        {
+          "title": "Cómo Shearer rechazó al Manchester United, de Ferguson - ESPN"
+        }
+      ]
+    },
+    {
+      "query": "Michigan vs Iowa",
+      "articles": [
+        {
+          "title": "Michigan vs. Iowa odds, line, spread: 2023 Big Ten Championship ..."
+        },
+        {
+          "title": "Michigan vs. Iowa live score and game tracker: Big 10 title game ..."
+        },
+        {
+          "title": "What time, TV channel is Michigan vs Iowa football on? Free live ..."
+        },
+        {
+          "title": "How to Watch Big Ten Championship: Michigan vs Iowa: Stream ..."
+        },
+        {
+          "title": "How to Watch the Michigan vs. Iowa Big Ten Championship ..."
+        },
+        {
+          "title": "#2 Michigan vs. #16 Iowa Prediction &amp; Odds: Big Ten Championship ..."
+        },
+        {
+          "title": "What channel is Michigan vs. Iowa on today? Time, TV schedule for ..."
+        }
+      ]
+    },
+    {
+      "query": "Fortnite event",
+      "articles": [
+        {
+          "title": "If You Missed The &#39;Fortnite&#39; Live-Event Because Of A Long Queue ..."
+        },
+        {
+          "title": "Fortnite&#39;s Eminem concert teased the future of the game"
+        },
+        {
+          "title": "Eminem&#39;s Fortnite headlining debut: If you blinked, you missed it"
+        },
+        {
+          "title": "Juice WRLD joins Eminem to sing Godzilla at Fortnite&#39;s Chapter 5 ..."
+        },
+        {
+          "title": "Fortnite future teased as Eminem &#39;Big Bang&#39; event brings major ..."
+        },
+        {
+          "title": "What Time Does Fortnite&#39;s Big Bang Event Start?"
+        },
+        {
+          "title": "Fortnite live event adds two more shows because of long queue times"
+        }
+      ]
+    },
+    {
+      "query": "Texas vs Oklahoma State",
+      "articles": [
+        {
+          "title": "Texas vs. Oklahoma State odds, line, spread: 2023 Big 12 ..."
+        },
+        {
+          "title": "Texas vs. Oklahoma State final score, results: Ewers leads Texas to ..."
+        },
+        {
+          "title": "Texas vs. Oklahoma State in Big 12 Championship: Score ..."
+        },
+        {
+          "title": "Oklahoma State football vs. Texas recap: Longhorns rout Cowboys ..."
+        },
+        {
+          "title": "5 takeaways from Texas&#39; Big 12 title win over Oklahoma State"
+        },
+        {
+          "title": "No. 7 Texas vs. No. 18 Oklahoma State live updates: Keilan ..."
+        },
+        {
+          "title": "How to Watch Texas Longhorns vs. Oklahoma State Cowboys: Big ..."
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "\"Fortnite Frenzy\": This mixed media piece features a chaotic battle royale scene from the popular video game, complete with colorful character skins and destructible environments.",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-lLA53QHdkbU7GDH4Y5ClmF5K.png?st=2023-12-03T00%3A28%3A24Z&se=2023-12-03T02%3A28%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-02T22%3A44%3A18Z&ske=2023-12-03T22%3A44%3A18Z&sks=b&skv=2021-08-06&sig=hlxrpQpog0jBKDTIN7hbEuV602RCzDu3xvOQDvZSYow%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-12-03T01:28:24.454Z.png"
+}

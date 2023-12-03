@@ -1,4 +1,17 @@
 
+## 2023-12-03
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-03T01:28:24.454Z.png)
+
+> "Fortnite Frenzy": This mixed media piece features a chaotic battle royale scene from the popular video game, complete with colorful character skins and destructible environments.
+
+1. Real Madrid
+1. Manchester United
+1. Michigan vs Iowa
+1. Fortnite event
+1. Texas vs Oklahoma State
+---
+
 ## 2023-12-02
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-02T01:24:23.239Z.png)
