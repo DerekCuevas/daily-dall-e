@@ -1,4 +1,17 @@
 
+## 2023-12-04
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-04T01:26:34.710Z.png)
+
+> "Neon Nights" - a vibrant digital artwork featuring Miami's iconic neon lights and the silhouette of a group of people celebrating the city's lively nightlife.
+
+1. 49ers
+1. Detroit Lions
+1. Miami Dolphins
+1. Steelers' game
+1. Bowl games 2023
+---
+
 ## 2023-12-03
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-03T01:28:24.454Z.png)
