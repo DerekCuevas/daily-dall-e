@@ -1,4 +1,17 @@
 
+## 2023-12-05
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-05T01:27:28.818Z.png)
+
+> "Digital Dreams" - a vibrant and abstract digital artwork that depicts the rise and fall of Bitcoin's price amidst the sleek backdrop of GTA 6's iconic skyline.
+
+1. Kansas City chiefs
+1. GTA 6
+1. Pittsburgh Steelers
+1. Bitcoin price
+1. Kyle McCord
+---
+
 ## 2023-12-04
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-04T01:26:34.710Z.png)
