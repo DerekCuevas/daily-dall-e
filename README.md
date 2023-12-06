@@ -1,4 +1,17 @@
 
+## 2023-12-06
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-06T01:26:37.592Z.png)
+
+> "Incendiary Quakes of Euphoria" - A mixed media piece featuring a chaotic and explosive scene of Disneyland rides being rattled by earthquakes, set to a psychedelic background and a haunting melody from Denny Laine.
+
+1. Arsenal
+1. House explosion Arlington, Va
+1. Earthquake
+1. Euphoria
+1. Denny Laine
+---
+
 ## 2023-12-05
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-05T01:27:28.818Z.png)
