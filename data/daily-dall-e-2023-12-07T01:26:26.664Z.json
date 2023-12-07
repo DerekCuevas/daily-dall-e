@@ -1,0 +1,155 @@
+{
+  "topTrends": [
+    {
+      "query": "UNLV",
+      "articles": [
+        {
+          "title": "UNLV shooting: Students describe terror and panic after gunshots ..."
+        },
+        {
+          "title": "Dayton halts game with UNLV after 3 killed in Vegas shooting - ESPN"
+        },
+        {
+          "title": "Las Vegas shooter dead after killing 3 in campus assault on two ..."
+        },
+        {
+          "title": "Live updates: UNLV campus shooting victims, suspect, and responses"
+        },
+        {
+          "title": "Las Vegas shooting: At least 3 killed at UNLV, suspect dead, police ..."
+        },
+        {
+          "title": "Shooting at UNLV Campus Leaves 3 Dead and 1 Critically Injured"
+        },
+        {
+          "title": "UNLV shooting: At least 3 fatalities, 1 victim in critical condition: Police"
+        }
+      ]
+    },
+    {
+      "query": "Norman Lear",
+      "articles": [
+        {
+          "title": "Statement from President Joe Biden on the Passing of Norman Lear ..."
+        },
+        {
+          "title": "Norman Lear Dead: TV Legend Was 101"
+        },
+        {
+          "title": "Norman Lear, celebrated US TV writer and producer, dies aged 101"
+        },
+        {
+          "title": "Norman Lear, who made funny sitcoms about serious topics, dies at ..."
+        },
+        {
+          "title": "Norman Lear, TV&#39;s Greatest American"
+        },
+        {
+          "title": "Emmy-winning TV producer-writer Norman Lear dies at age 101"
+        },
+        {
+          "title": "Reacciones a la muerte del productor televisivo pionero Norman Lear"
+        },
+        {
+          "title": "Muere a los 101 años Norman Lear, icónico productor de películas y ..."
+        },
+        {
+          "title": "Fallece el productor de televisión Norman Lear de “All in the Family ..."
+        },
+        {
+          "title": "Muere Norman Lear, Pionero De La Comedia Televisiva En EEUU"
+        }
+      ]
+    },
+    {
+      "query": "TIME Person of the Year 2023",
+      "articles": [
+        {
+          "title": "TIME Names the 2023 Person of the Year: Taylor Swift"
+        },
+        {
+          "title": "Behind the Scenes of TIME&#39;s 2023 Person of the Year Issue"
+        },
+        {
+          "title": "Taylor Swift is TIME&#39;s 2023 Person of the Year"
+        },
+        {
+          "title": "Taylor Swift named Time&#39;s &#39;Person of the Year&#39;"
+        },
+        {
+          "title": "Taylor Swift Is Time&#39;s Person of the Year. Uh-oh."
+        },
+        {
+          "title": "&#39;Time&#39; magazine names Taylor Swift its 2023 Person of the Year"
+        },
+        {
+          "title": "Taylor Swift Is Time&#39;s Person of the Year"
+        }
+      ]
+    },
+    {
+      "query": "Ralph Cirella",
+      "articles": [
+        {
+          "title": "Ralph Cirella, Stylist and Close Friend of Howard Stern, Dead at 58"
+        },
+        {
+          "title": "Ralph Cirella, longtime Howard Stern Show contributor and stylist ..."
+        },
+        {
+          "title": "Howard Remembers Stylist and Dear Friend Ralph Cirella | Howard ..."
+        },
+        {
+          "title": "Ralph Cirella Dead: Howard Stern Stylist, Radio Show Regular Was ..."
+        },
+        {
+          "title": "Howard Stern on death of friend: &#39;I loved Ralph&#39;"
+        },
+        {
+          "title": "Ralph Cirella, Howard Stern&#39;s friend, stylist — a longtime N.J. ..."
+        },
+        {
+          "title": "Ralph Cirella, Howard Stern&#39;s stylist and frequent radio show guest ..."
+        }
+      ]
+    },
+    {
+      "query": "Juan Soto",
+      "articles": [
+        {
+          "title": "Yankees reportedly close to landing superstar Juan Soto in ..."
+        },
+        {
+          "title": "Padres&#39; Imminent Juan Soto Trade Ends Their Era of High ..."
+        },
+        {
+          "title": "Yankees Have &quot;Intensified&quot; Efforts To Acquire Juan Soto"
+        },
+        {
+          "title": "Juan Soto to the Yankees? Momentum building towards trade with ..."
+        },
+        {
+          "title": "Yankees are clearing a path for a Juan Soto trade to happen"
+        },
+        {
+          "title": "Yankees&#39; deal for Juan Soto is an old-school Boss move | Klapisch"
+        },
+        {
+          "title": "Yankees Poised To Acquire Juan Soto"
+        },
+        {
+          "title": "Cambio de Juan Soto a Yankees es visto como “muy probable ..."
+        },
+        {
+          "title": "Padres Targeting Catcher In Potential Juan Soto Trade With ..."
+        },
+        {
+          "title": "Juan Soto es intercambiado a los New York Yankees"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "\"Broken Peace\" - A digital painting in the style of Frida Kahlo depicting a shattered peace symbol with the UNLV mascot hovering above, paying tribute to the three lives lost in the tragic UNLV shooting.",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-T5UqsXpa0S6J1mbAPGjZ7c7m.png?st=2023-12-07T00%3A26%3A26Z&se=2023-12-07T02%3A26%3A26Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-06T20%3A01%3A26Z&ske=2023-12-07T20%3A01%3A26Z&sks=b&skv=2021-08-06&sig=qnKHjYqAOdqTfxVxvBMt6kyaERxyCqfzMlIJ6wRwazk%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-12-07T01:26:26.664Z.png"
+}

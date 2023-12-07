@@ -1,4 +1,17 @@
 
+## 2023-12-07
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-07T01:26:26.664Z.png)
+
+> "Broken Peace" - A digital painting in the style of Frida Kahlo depicting a shattered peace symbol with the UNLV mascot hovering above, paying tribute to the three lives lost in the tragic UNLV shooting.
+
+1. UNLV
+1. Norman Lear
+1. TIME Person of the Year 2023
+1. Ralph Cirella
+1. Juan Soto
+---
+
 ## 2023-12-06
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-06T01:26:37.592Z.png)
