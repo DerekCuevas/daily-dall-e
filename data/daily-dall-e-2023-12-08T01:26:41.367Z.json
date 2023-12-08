@@ -1,0 +1,131 @@
+{
+  "topTrends": [
+    {
+      "query": "Pearl Harbor Day",
+      "articles": [
+        {
+          "title": "Governor Newsom Proclaims Pearl Harbor Remembrance Day ..."
+        },
+        {
+          "title": "A Proclamation on National Pearl Harbor Remembrance Day, 2023"
+        },
+        {
+          "title": "Pearl Harbor attack: Centenarian survivors are returning to honor ..."
+        },
+        {
+          "title": "&#39;With us in spirit&#39;: Pearl Harbor day of remembrance ceremony held ..."
+        },
+        {
+          "title": "Tuskegee Airman salutes during Pearl Harbor Day ceremony in ..."
+        },
+        {
+          "title": "National Pearl Harbor Remembrance Day"
+        },
+        {
+          "title": "Anniversary of Pearl Harbor attack: Virginia War Museum hosting ..."
+        },
+        {
+          "title": "Rochester Yacht Club honors veterans on Pearl Harbor Day"
+        }
+      ]
+    },
+    {
+      "query": "Hanukkah 2023",
+      "articles": [
+        {
+          "title": "Hanukkah Lights 2023"
+        },
+        {
+          "title": "First night of Hanukkah starts at sundown, menorah lightings held ..."
+        },
+        {
+          "title": "Hanukkah 2023"
+        },
+        {
+          "title": "Hanukkah 2023: What is it? How is it celebrated? What to know ..."
+        },
+        {
+          "title": "Hanukkah 2023: Celebrate around Greater Cincinnati with these ..."
+        },
+        {
+          "title": "4 ways to celebrate Hanukkah 2023 in Richmond"
+        },
+        {
+          "title": "This year&#39;s Hanukkah celebrations are tempered by Israel&#39;s war with ..."
+        },
+        {
+          "title": "How a war thousands of miles away is changing the way some ..."
+        },
+        {
+          "title": "Father creates &#39;Project Menorah&#39; to keep lights shining bright during ..."
+        },
+        {
+          "title": "LIST: Hanukkah events in San Diego for 2023"
+        }
+      ]
+    },
+    {
+      "query": "Steelers",
+      "articles": [
+        {
+          "title": "Little scoring forecast for Pats-Steelers as low over/under set - ESPN"
+        },
+        {
+          "title": "PRO Predictions: Week 14 picks for Patriots vs. Steelers"
+        },
+        {
+          "title": "How to watch today&#39;s New England Patriots vs. Pittsburgh Steelers ..."
+        },
+        {
+          "title": "Thursday Night Football: Patriots vs. Steelers score, highlights, news ..."
+        },
+        {
+          "title": "Steelers vs. Patriots odds, line, spread: Thursday Night Football ..."
+        },
+        {
+          "title": "Patriots vs. Steelers live score updates on Thursday Night Football ..."
+        },
+        {
+          "title": "Patriots vs. Steelers updates: Predictions, odds, how to watch ..."
+        }
+      ]
+    },
+    {
+      "query": "Game Awards 2023",
+      "articles": [
+        {
+          "title": "How to Watch the 2023 Game Awards Live Free Online"
+        },
+        {
+          "title": "The Game Awards 2023: the biggest news, trailers, and ..."
+        },
+        {
+          "title": "The Game Awards Thread (2023)"
+        },
+        {
+          "title": "How to watch The Game Awards 2023, the biggest night in video ..."
+        },
+        {
+          "title": "The Game Awards 2023: Here&#39;s the complete list of winners"
+        },
+        {
+          "title": "The Game Awards 2023: How to watch live, view the nominees"
+        },
+        {
+          "title": "The Game Awards 2023: All news, announcements, and trailers"
+        }
+      ]
+    },
+    {
+      "query": "Hanukkah",
+      "articles": [
+        {
+          "title": "Opinion: How I built my own tribe for Hanukkah in the Pacific ..."
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "\"Memories of Valor\" - A mixed media triptych depicting the bravery and sacrifice during the Pearl Harbor attack, featuring authentic artifacts and newspaper clippings.",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-3b02LjF1YZ9yEl8KTrXEPCHs.png?st=2023-12-08T00%3A26%3A41Z&se=2023-12-08T02%3A26%3A41Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-07T16%3A42%3A40Z&ske=2023-12-08T16%3A42%3A40Z&sks=b&skv=2021-08-06&sig=WpbE%2BT%2BuxNvCPU2Xvc0HCsp2Z5%2BCBb4edMpL9jvRXPE%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-12-08T01:26:41.367Z.png"
+}

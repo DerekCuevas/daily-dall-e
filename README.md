@@ -1,4 +1,17 @@
 
+## 2023-12-08
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-08T01:26:41.367Z.png)
+
+> "Memories of Valor" - A mixed media triptych depicting the bravery and sacrifice during the Pearl Harbor attack, featuring authentic artifacts and newspaper clippings.
+
+1. Pearl Harbor Day
+1. Hanukkah 2023
+1. Steelers
+1. Game Awards 2023
+1. Hanukkah
+---
+
 ## 2023-12-07
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-07T01:26:26.664Z.png)
