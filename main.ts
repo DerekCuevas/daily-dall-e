@@ -1,11 +1,17 @@
 import { OpenAI } from "https://deno.land/x/openai@v4.16.1/mod.ts";
 import { config } from "./config.ts";
 import { TrendFinder } from "./trends_finder.ts";
+import { InstagramClient } from "./instagram_client.ts";
 
 const TOP_TRENDS_COUNT = 5;
 
 const trendsFinder = new TrendFinder();
 const openai = new OpenAI({ apiKey: config.OPENAI_API_KEY });
+
+const instagramClient = new InstagramClient({
+  username: config.INSTAGRAM_USERNAME,
+  password: config.INSTAGRAM_PASSWORD,
+});
 
 const trends = await trendsFinder.find({ geo: "US" });
 const topTrends = trends.slice(0, TOP_TRENDS_COUNT);
@@ -17,6 +23,19 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
       role: "user",
       content:
         "You are a pop culture artist that describes artwork verbally in the style of a famous artist of your choosing.",
+    },
+    {
+      role: "user",
+      content: "Do not feature sports or sports related topics.",
+    },
+    {
+      role: "user",
+      // OpenAI's safety system will reject these prompts
+      content: "Do not feature famous female celebrities as a subject.",
+    },
+    {
+      role: "user",
+      content: "Output only the description of the artwork and nothing else.",
     },
     {
       role: "user",
@@ -34,20 +53,7 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
     {
       role: "user",
       content:
-        "Create and produce a very short and concise one sentence description of a single piece of artwork that either features, highlights, or incorporates one or more of pop culture trends.",
-    },
-    {
-      role: "user",
-      content: "Avoid sports related trends as a subject.",
-    },
-    {
-      role: "user",
-      // OpenAI's safety system will reject these prompts
-      content: "Avoid famous female celebrities as a subject.",
-    },
-    {
-      role: "user",
-      content: "Output only the description of the artwork and nothing else.",
+        "Create and produce a very short and concise one sentence description of a single piece of artwork that either features, highlights, or incorporates one of the pop culture trends.",
     },
   ],
 });
@@ -63,7 +69,9 @@ const image = await openai.images.generate({
   model: "dall-e-3",
   prompt: imagePrompt,
   n: 1,
-  size: "1024x1024",
+  size: "1792x1024",
+  quality: "hd",
+  style: "vivid",
 });
 const imageURL = image.data[0].url;
 
@@ -103,4 +111,11 @@ ${topTrends.map((t) => `1. ${t.query}`).join("\n")}
 `;
 
 await Deno.writeTextFile(outputFile, [readmeContents, contents].join("---\n"));
+
+// await instagramClient.uploadPhoto(
+//   archiveFilepath,
+//   imagePrompt,
+//   topTrends.map((t) => t.query)
+// );
+
 console.log("Complete.");
