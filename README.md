@@ -1,4 +1,17 @@
 
+## 2023-12-09
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-09T01:25:20.223Z.png)
+
+> "A Technicolor Dreamland" - a vivid and surreal digital painting featuring a neon-lit Jurassic Park theme park at night, with John Lennon performing on stage and Def Leppard headlining a concert in the distance, while a mysterious woman appears immaculately glowing in the foreground.
+
+1. Jurassic Park: Survival
+1. Def Leppard Tour 2024
+1. John Lennon
+1. Immaculate Conception
+1. Steelers
+---
+
 ## 2023-12-08
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-08T01:26:41.367Z.png)
