@@ -1,4 +1,17 @@
 
+## 2023-12-10
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-10T01:28:51.022Z.png)
+
+> Imbued with the neon glow of modern dystopia, a canvas splits into a collage where digital clocks countdown to an apocalyptic silence, echoing the tension and suspense of "Leave the World Behind," framed by the haunting stillness of expectation.
+
+1. Army-Navy Game
+1. Shohei Ohtani
+1. Leave the World Behind
+1. Liverpool
+1. Heisman Trophy
+---
+
 ## 2023-12-09
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-09T01:25:20.223Z.png)
