@@ -1,4 +1,17 @@
 
+## 2023-12-11
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-11T01:27:07.703Z.png)
+
+> Amidst a surreal landscape, a solitary microphone stands, wrapped in a sinuous spaghetti of multicolored comic book strips, each word bubble poignantly spelling out Eminem's sharpest verses as vibrant graffiti-like shadows dance harmoniously in the background.
+
+1. Rams
+1. Buffalo Bills
+1. Bengals
+1. Seahawks
+1. Eminem
+---
+
 ## 2023-12-10
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-10T01:28:51.022Z.png)
