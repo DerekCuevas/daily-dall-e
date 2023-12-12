@@ -1,4 +1,17 @@
 
+## 2023-12-12
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-12T01:26:53.668Z.png)
+
+> In a stylized noir tableau, Keanu Reeves stands pensively under a stark streetlight, casting long shadows that blend seamlessly into the sleek, bold lines of a neon-lit city, encapsulating a silent narrative of isolation amongst fame.
+
+1. Golden Globe nominations
+1. Keanu Reeves
+1. The Day Before
+1. Kateri Poole
+1. Claudine Gay
+---
+
 ## 2023-12-11
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-11T01:27:07.703Z.png)
