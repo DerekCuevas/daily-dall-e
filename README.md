@@ -1,4 +1,17 @@
 
+## 2023-12-13
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-13T01:26:34.523Z.png)
+
+> In a silhouetted cityscape bustling with energy, a vibrant graffiti mural comes to life celebrating Kanye West's controversial persona, with abstract shapes interlacing his portrait that echo the fragmented echoes of his latest album.
+
+1. Champions League
+1. UEFA Champions League
+1. Real Madrid
+1. Kate Micucci
+1. Kanye West
+---
+
 ## 2023-12-12
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-12T01:26:53.668Z.png)
