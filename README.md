@@ -1,4 +1,17 @@
 
+## 2023-12-14
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-14T01:26:16.201Z.png)
+
+> Imagine a canvas awash with starry splendor, where amid the cosmic dance of the Geminid meteor shower, streaks of green and gold illuminate the night sky, winking at the transient nature of human triumphs against a vast, enduring universe.
+
+1. Celtics
+1. Boston Celtics
+1. Bridget Ziegler
+1. Meteor shower
+1. Iowa
+---
+
 ## 2023-12-13
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-13T01:26:34.523Z.png)

@@ -1,0 +1,134 @@
+{
+  "topTrends": [
+    {
+      "query": "Celtics",
+      "articles": [
+        {
+          "title": "Celtics show evolving maturation in win over Cavs"
+        },
+        {
+          "title": "Celtics look to complete two-game sweep of Cavaliers"
+        },
+        {
+          "title": "Celtics pull away late, beat Cavaliers to remain unbeaten at home ..."
+        },
+        {
+          "title": "Earning it: 10 Takeaways from Celtics/Cavaliers"
+        },
+        {
+          "title": "Tatum, Brown lead Celtics past Cavaliers 120-113 to remain ..."
+        },
+        {
+          "title": "Cavs&#39; gritty effort can&#39;t overcome Celtics&#39; perfect night: Behind the ..."
+        },
+        {
+          "title": "Are &#39;08 Celtics the best C&#39;s team ever? Eddie House makes the case"
+        },
+        {
+          "title": "Donovan Mitchell, Top Cavaliers Players to Watch vs. the Celtics ..."
+        },
+        {
+          "title": "Neemias Queta teaches Boston Celtics fans basketball skills"
+        }
+      ]
+    },
+    {
+      "query": "Boston Celtics",
+      "articles": [
+        {
+          "title": "Neemias Queta teaches Boston Celtics fans basketball skills"
+        }
+      ]
+    },
+    {
+      "query": "Bridget Ziegler",
+      "articles": [
+        {
+          "title": "Bridget Ziegler: Florida school board pushes member to resign amid ..."
+        },
+        {
+          "title": "Your Florida Daily: School board members urge Bridget Ziegler to ..."
+        },
+        {
+          "title": "What&#39;s next for Sarasota School Board with Bridget Ziegler not ..."
+        },
+        {
+          "title": "Could a sex scandal force Moms for Liberty cofounder off school ..."
+        },
+        {
+          "title": "School Board asks Bridget Ziegler to resign. She refuses ..."
+        },
+        {
+          "title": "Tom Edwards requests Gov. DeSantis suspend Bridget Ziegler"
+        },
+        {
+          "title": "Bridget Ziegler asked to resign Sarasota School Board; refuses to ..."
+        }
+      ]
+    },
+    {
+      "query": "Meteor shower",
+      "articles": [
+        {
+          "title": "Your guide to Wednesday&#39;s Geminid meteor shower"
+        },
+        {
+          "title": "Geminids Meteor Shower Peaks Tonight. Here&#39;s How and When to ..."
+        },
+        {
+          "title": "The &#39;king of the meteor showers&#39; will peak this week"
+        },
+        {
+          "title": "Geminids meteor shower will peak this week. Here&#39;s how to see it"
+        },
+        {
+          "title": "How to view the Geminid meteor shower in Minnesota"
+        },
+        {
+          "title": "Geminids meteor shower to shine under clear Maine skies | WGME"
+        },
+        {
+          "title": "Greenish Geminid meteor shower to peak this week"
+        }
+      ]
+    },
+    {
+      "query": "Iowa",
+      "articles": [
+        {
+          "title": "Trump and His Allies Descend on Iowa"
+        },
+        {
+          "title": "Trump makes third Iowa trip this month in final weeks before GOP ..."
+        },
+        {
+          "title": "Iowa&#39;s revenue projected to drop, but Republicans say there&#39;s room ..."
+        },
+        {
+          "title": "Iowa Sweeps Season&#39;s First Indoor Track and Field Weekly Awards"
+        },
+        {
+          "title": "DMACC President Rob Denson becomes college&#39;s longest-serving ..."
+        },
+        {
+          "title": "Trump rallies voters in Iowa ahead of caucuses: Watch live"
+        },
+        {
+          "title": "Iowa leaders say there&#39;s room for more tax cuts"
+        },
+        {
+          "title": "Projection: Iowa tax revenue to flatten in next budget year"
+        },
+        {
+          "title": "State officials: COVID-19 spread is &#39;high&#39; in Iowa"
+        },
+        {
+          "title": "Iowa&#39;s anti-Trump Republicans are starting to lose hope"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "Imagine a canvas awash with starry splendor, where amid the cosmic dance of the Geminid meteor shower, streaks of green and gold illuminate the night sky, winking at the transient nature of human triumphs against a vast, enduring universe.",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-GNWyAo5XSYYSgXNSnsma8kMe.png?st=2023-12-14T00%3A26%3A16Z&se=2023-12-14T02%3A26%3A16Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-13T23%3A44%3A30Z&ske=2023-12-14T23%3A44%3A30Z&sks=b&skv=2021-08-06&sig=iWyAh8p1WbrcmBhtwhgJ869yLMwPlOXgMGv/LaBIH9w%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-12-14T01:26:16.201Z.png"
+}
