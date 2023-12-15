@@ -1,4 +1,17 @@
 
+## 2023-12-15
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-15T01:27:12.695Z.png)
+
+> In the electric glow of neon signs, vivid silhouettes of jazz musicians fill an underground New York club, where the rhythmic beats ebb and flow with the dynamic energy of a Knicks game night.
+
+1. Raiders
+1. Nicki Minaj
+1. Josh Jacobs
+1. Boston Mayor Michelle Wu
+1. Knicks
+---
+
 ## 2023-12-14
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-14T01:26:16.201Z.png)
