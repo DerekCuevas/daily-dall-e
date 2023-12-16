@@ -53,7 +53,7 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
     {
       role: "user",
       content:
-        "Create and produce a very short and concise one sentence description of a single piece of artwork that either features, highlights, or incorporates one of the pop culture trends.",
+        "In the style of a famous artist of your choosing, create and produce a very short and concise one sentence description of a single piece of artwork that features, highlights, or incorporates one of the pop culture trends.",
     },
   ],
 });
@@ -71,7 +71,6 @@ const image = await openai.images.generate({
   n: 1,
   size: "1792x1024",
   quality: "hd",
-  style: "vivid",
 });
 const imageURL = image.data[0].url;
 
