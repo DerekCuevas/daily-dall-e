@@ -1,4 +1,19 @@
 
+## 2023-12-17
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-17T01:28:43.223Z.png)
+
+> In the style of Jackson Pollock:
+
+"Bengals vs Vikings" - A frenzied canvas of interweaving colors and lines that highlights the chaotic intensity of overtime football.
+
+1. Bengals
+1. UFC
+1. Colts
+1. Detroit Lions
+1. College football
+---
+
 ## 2023-12-16
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-16T18:00:17.935Z.png)
