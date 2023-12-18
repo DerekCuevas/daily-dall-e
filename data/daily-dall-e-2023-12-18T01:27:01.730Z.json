@@ -1,0 +1,173 @@
+{
+  "topTrends": [
+    {
+      "query": "NFL",
+      "articles": [
+        {
+          "title": "NFL late slate: Bills vs. Cowboys score, highlights, news, inactives ..."
+        },
+        {
+          "title": "NFL 2023 Week 15: Biggest questions, risers and takeaways - ESPN"
+        },
+        {
+          "title": "How to watch today&#39;s New York Giants vs. New Orleans Saints NFL ..."
+        },
+        {
+          "title": "Sunday Night Football odds, spread, line: Ravens vs. Jaguars picks ..."
+        },
+        {
+          "title": "NFL Week 16 odds, predictions: Picks, lines, spreads for every game"
+        },
+        {
+          "title": "Game Recap: New Orleans Saints 24, New York Giants 6 | 2023 ..."
+        },
+        {
+          "title": "NFL Sunday schedule: How to watch NFL Week 15 games on TV ..."
+        },
+        {
+          "title": "2023 NFL Week 15 player props, odds, TD bets: Expert&#39;s anytime ..."
+        },
+        {
+          "title": "How to watch today&#39;s Baltimore Ravens vs. Jacksonville Jaguars ..."
+        },
+        {
+          "title": "What NFL games are on today: Week 15 NFL Sunday Schedule, TV ..."
+        }
+      ]
+    },
+    {
+      "query": "Chiefs",
+      "articles": [
+        {
+          "title": "7 Keys from Patriots 27-17 Loss to Chiefs"
+        },
+        {
+          "title": "&#39;It&#39;s a bonus if she&#39;s here&#39;: Taylor Swift at Gillette Stadium to cheer on ..."
+        },
+        {
+          "title": "Taylor Swift watches Travis Kelce&#39;s Chiefs beat Patriots at Gillette ..."
+        },
+        {
+          "title": "Travis Kelce and the Chiefs Defeat the Patriots with Taylor Swift in ..."
+        },
+        {
+          "title": "Chiefs beat Patriots 27-17 to thrill Taylor Swift and Swifties in crowd"
+        },
+        {
+          "title": "Taylor Swift attends Travis Kelce&#39;s Chiefs game against the Patriots"
+        },
+        {
+          "title": "Taylor Swift Brings Dad to Watch Travis Kelce at Chiefs-Patriots Game"
+        },
+        {
+          "title": "Chiefs bring &#39;energy from the start&#39; to beat Patriots - ESPN"
+        },
+        {
+          "title": "Taylor Swift Cheers Travis Kelce on at Kansas City Chiefs Matchup ..."
+        },
+        {
+          "title": "Kansas City Chiefs beat Patriots on the road, end 2-game skid ..."
+        }
+      ]
+    },
+    {
+      "query": "Packers",
+      "articles": [
+        {
+          "title": "Rapid Reaction: Buccaneers 34, Packers 20"
+        },
+        {
+          "title": "Packers fall to Buccaneers, 34-20"
+        },
+        {
+          "title": "The Good, Bad And Ugly From The Green Bay Packers&#39; Loss To The ..."
+        },
+        {
+          "title": "RB Aaron Jones active for Green Bay | Packers-Bucs inactives"
+        },
+        {
+          "title": "Packers&#39; defense gashed by Tampa Bay, lose 34-20"
+        },
+        {
+          "title": "Packers coach Matt LaFleur seeks &#39;solutions&#39; after defense ..."
+        },
+        {
+          "title": "Countdown to Kickoff: Buccaneers-Packers, Week 15 2023"
+        },
+        {
+          "title": "Packers defense lets Jordan Love, offense down — and change will ..."
+        },
+        {
+          "title": "Packers&#39; playoff hopes fade thanks to a defense that can&#39;t get stops"
+        },
+        {
+          "title": "Baker Mayfield throws for 381 yards, 4 TDs, Bucs keep pace in NFC ..."
+        }
+      ]
+    },
+    {
+      "query": "Miami Dolphins",
+      "articles": [
+        {
+          "title": "Big Question Answered for Jets at Miami: WR Tyreek Hill (Ankle ..."
+        },
+        {
+          "title": "How to watch today&#39;s New York Jets vs. Miami Dolphins NFL game ..."
+        },
+        {
+          "title": "Game Recap: Defense Secures 30-0 Shutout Win Over Jets as ..."
+        },
+        {
+          "title": "NFL Week 15 Game Recap: Miami Dolphins 30, New York Jets 0 ..."
+        },
+        {
+          "title": "Dolphins host Jets hoping to shake off embarrassing loss to Titans ..."
+        },
+        {
+          "title": "Jets vs. Dolphins inactive players list: Tyreek Hill, Xavien Howard ..."
+        },
+        {
+          "title": "Dolphins Bounce Back in Style"
+        },
+        {
+          "title": "Photos: Jets shut out by Miami Dolphins 30-0 in NFL Week 15 game"
+        },
+        {
+          "title": "Instant takeaways as Tua Tagovailoa, Raheem Mostert, Dolphins ..."
+        },
+        {
+          "title": "Breaking Down the Week 15 Dolphins-Jets Inactive Info"
+        }
+      ]
+    },
+    {
+      "query": "Giants",
+      "articles": [
+        {
+          "title": "Instant Analysis: Giants fall to Saints, 24-6"
+        },
+        {
+          "title": "Game Recap: New Orleans Saints 24, New York Giants 6 | 2023 ..."
+        },
+        {
+          "title": "How to watch today&#39;s New York Giants vs. New Orleans Saints NFL ..."
+        },
+        {
+          "title": "Giants, &#39;average&#39; Tommy DeVito lose swagger as win streak ends ..."
+        },
+        {
+          "title": "Carr throws 3 TD passes as Saints top Giants 24-6 to remain tied ..."
+        },
+        {
+          "title": "Photos: Tommy DeVito, Giants take on Saints in Week 15 game"
+        },
+        {
+          "title": "Defense, Carr&#39;s three TD passes ignite Saints&#39; victory over Giants, 24-6"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "In the style of Vincent van Gogh: A bold yellow sun shines above the Giants stadium, casting a radiant glow onto the green field below.",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-1Q95VMw8Vm5oxsLeGR16zP2K.png?st=2023-12-18T00%3A27%3A01Z&se=2023-12-18T02%3A27%3A01Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-17T07%3A22%3A59Z&ske=2023-12-18T07%3A22%3A59Z&sks=b&skv=2021-08-06&sig=0kFl8mAtZTsYStZ0dcfRdyRAU4TBMEyJ%2BELn9VSxW1E%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-12-18T01:27:01.730Z.png"
+}

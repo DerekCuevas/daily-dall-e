@@ -1,4 +1,17 @@
 
+## 2023-12-18
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-18T01:27:01.730Z.png)
+
+> In the style of Vincent van Gogh: A bold yellow sun shines above the Giants stadium, casting a radiant glow onto the green field below.
+
+1. NFL
+1. Chiefs
+1. Packers
+1. Miami Dolphins
+1. Giants
+---
+
 ## 2023-12-17
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-17T01:28:43.223Z.png)
