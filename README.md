@@ -1,4 +1,17 @@
 
+## 2023-12-20
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-20T01:16:39.598Z.png)
+
+> In the style of Pablo Picasso: A cubist portrait of Ja Morant depicting the All-Star as the engine that powers the Memphis Grizzlies.
+
+1. Ja Morant
+1. Chelsea vs Newcastle
+1. Man City
+1. Freight
+1. Matt Patricia
+---
+
 ## 2023-12-18
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-18T01:27:01.730Z.png)
