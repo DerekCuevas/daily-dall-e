@@ -1,4 +1,19 @@
 
+## 2023-12-21
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-21T01:25:53.168Z.png)
+
+> In the style of Vincent van Gogh: 
+
+A bold and vibrant painting of the winter solstice sky illuminating the barren landscape in a burst of oranges and blues.
+
+1. Winter solstice 2023
+1. Barcelona - Almería
+1. Leonard Bernstein
+1. Jeremiah Smith
+1. Alyssa Milano Shannen Doherty
+---
+
 ## 2023-12-20
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-20T01:16:39.598Z.png)
