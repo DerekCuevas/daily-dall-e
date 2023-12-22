@@ -1,4 +1,19 @@
 
+## 2023-12-22
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-22T01:25:24.107Z.png)
+
+> In the style of Vincent Van Gogh: 
+
+"A starry night illuminates the grandeur stadium as Madrid wins in a triumphant game against Alaves."
+
+1. Prague
+1. Real Madrid
+1. Saints
+1. Rebel Moon
+1. Rudy Giuliani
+---
+
 ## 2023-12-21
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-21T01:25:53.168Z.png)

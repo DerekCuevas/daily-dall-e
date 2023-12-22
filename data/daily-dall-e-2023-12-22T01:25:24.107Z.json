@@ -1,0 +1,161 @@
+{
+  "topTrends": [
+    {
+      "query": "Prague",
+      "articles": [
+        {
+          "title": "At least 14 people are dead after a mass shooting at a Prague ..."
+        },
+        {
+          "title": "At Least 14 People Killed After Mass Shooting at a Prague ..."
+        },
+        {
+          "title": "Shooting at Prague university leaves at least 15 dead and dozens ..."
+        },
+        {
+          "title": "At least 15 people killed and 24 injured in shooting at Prague ..."
+        },
+        {
+          "title": "14 People Killed, More Than 20 Wounded In Mass Shooting in ..."
+        },
+        {
+          "title": "Gunman kills 14 people and wounds 25 others at Prague university"
+        },
+        {
+          "title": "Gunman kills 15 people and wounds 25 others at Prague university"
+        }
+      ]
+    },
+    {
+      "query": "Real Madrid",
+      "articles": [
+        {
+          "title": "Real Madrid 1-0 Alavés (Dec 21, 2023) Game Analysis - ESPN"
+        },
+        {
+          "title": "Alavés - Real Madrid summary: Vázquez, score, goals, highlights ..."
+        },
+        {
+          "title": "El Real Madrid cierra 2023 en la cima de España con triunfo 1-0 ..."
+        },
+        {
+          "title": "New Plans For European Super League Revealed Before Being ..."
+        },
+        {
+          "title": "Real Madrid, Barcelona attempt to revive Super League after ..."
+        },
+        {
+          "title": "Lucas Vázquez recupera el liderato para el Real Madrid en el ..."
+        },
+        {
+          "title": "Deportivo Alaves 0-1 Real Madrid – Lucas Vazquez strikes in ..."
+        },
+        {
+          "title": "Manchester United &#39;committed to UEFA competitions&#39; after ECJ ..."
+        },
+        {
+          "title": "Real Madrid cierra 2023 en la cima de España con triunfo 1-0 sobre ..."
+        },
+        {
+          "title": "Will Barcelona and Real Madrid receive €1 billion from Super ..."
+        }
+      ]
+    },
+    {
+      "query": "Saints",
+      "articles": [
+        {
+          "title": "New Orleans Saints key ingredients to victory against Los Angeles ..."
+        },
+        {
+          "title": "How to watch tonight&#39;s New Orleans Saints vs. Los Angeles Rams ..."
+        },
+        {
+          "title": "Rams-Saints matchups: How to watch, start time and prediction"
+        },
+        {
+          "title": "Betting odds, picks, tips for Rams-Saints - ESPN"
+        },
+        {
+          "title": "Final score predictions for Saints vs. Rams on Thursday Night Football"
+        },
+        {
+          "title": "Saints vs. Rams live updates: Predictions, odds, how to watch ..."
+        },
+        {
+          "title": "Saints vs. Rams picks: A TNF parlay featuring Alvin Kamara, Cooper ..."
+        },
+        {
+          "title": "Saints owner Gayle Benson gives back to Mississippi Gulf Coast"
+        }
+      ]
+    },
+    {
+      "query": "Rebel Moon",
+      "articles": [
+        {
+          "title": "What To Know About &#39;Rebel Moon,&#39; Zack Snyder&#39;s New Sci-Fi Movie"
+        },
+        {
+          "title": "&#39;Rebel Moon — Part One: Child of Fire&#39; Review: Galaxy Brained"
+        },
+        {
+          "title": "Betrayal and resurrection: Zack Snyder breaks down the ending of ..."
+        },
+        {
+          "title": "Who is Netflix&#39;s &#39;Rebel Moon&#39; star? Former Madonna dancer Sofia ..."
+        },
+        {
+          "title": "Zack Snyder&#39;s &#39;Rebel Moon&#39; gives him final cut on a sci-fi epic, just ..."
+        },
+        {
+          "title": "Rebel Moon Part One: A Child of Fire film review — ersatz Star Wars ..."
+        },
+        {
+          "title": "5 sci-fi and action movies like Rebel Moon you should watch | Digital ..."
+        },
+        {
+          "title": "How Many Rebel Moon Movies Will There Be?"
+        }
+      ]
+    },
+    {
+      "query": "Rudy Giuliani",
+      "articles": [
+        {
+          "title": "Rudy Giuliani files for bankruptcy days after being ordered to pay ..."
+        },
+        {
+          "title": "Rudy Giuliani files for bankruptcy a day after a judge orders him to ..."
+        },
+        {
+          "title": "Rudy Giuliani files for bankruptcy following $146 million defamation ..."
+        },
+        {
+          "title": "Rudy Giuliani files for bankruptcy"
+        },
+        {
+          "title": "Rudy Giuliani files for bankruptcy, facing mounting legal fees"
+        },
+        {
+          "title": "Rudy Giuliani, facing a $146 million judgment, files for bankruptcy in ..."
+        },
+        {
+          "title": "El exalcalde de Nueva York Rudy Giuliani se declara en quiebra"
+        },
+        {
+          "title": "Rudy Giuliani se declara en quiebra luego de que le ordenaran ..."
+        },
+        {
+          "title": "Rudy Giuliani, exabogado de Donald Trump, se declara en bancarrota"
+        },
+        {
+          "title": "Rudy Giuliani se declara en bancarrota tras su condena millonaria ..."
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "In the style of Vincent Van Gogh: \n\n\"A starry night illuminates the grandeur stadium as Madrid wins in a triumphant game against Alaves.\"",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-KBmGVckb0ONjXTNShehC01lN.png?st=2023-12-22T00%3A25%3A24Z&se=2023-12-22T02%3A25%3A24Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-21T23%3A00%3A05Z&ske=2023-12-22T23%3A00%3A05Z&sks=b&skv=2021-08-06&sig=m4hIlOzMXvVPurDg9OTaSM1LdEAcrEoqhfkQhnPe0yw%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-12-22T01:25:24.107Z.png"
+}
