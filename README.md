@@ -1,4 +1,17 @@
 
+## 2023-12-23
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-23T01:24:00.845Z.png)
+
+> In the style of Salvador Dali: "The Persistence of Man City" - A surrealist portrait of Manchester City's continued dominance, with a melting clock symbolizing the fluidity of their gameplay.
+
+1. Simone Biles
+1. Man City vs Fluminense
+1. Dodgers
+1. Manchester City
+1. Barcelona
+---
+
 ## 2023-12-22
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-22T01:25:24.107Z.png)
