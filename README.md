@@ -1,4 +1,17 @@
 
+## 2023-12-24
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-24T01:28:06.036Z.png)
+
+> In the style of Piet Mondrian: A grid of intersecting lines in primary colors, with a lone black square representing Deontay Wilder standing strong amidst the chaos of the boxing ring.
+
+1. Laura Lynch
+1. Liverpool vs Arsenal
+1. Bengals vs Steelers
+1. Buffalo Bills
+1. Deontay Wilder
+---
+
 ## 2023-12-23
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-23T01:24:00.845Z.png)
