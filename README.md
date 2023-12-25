@@ -1,4 +1,17 @@
 
+## 2023-12-25
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-25T01:26:35.566Z.png)
+
+> In the style of Vincent van Gogh: A swirling blue sea engulfs a lone seahawk perched atop a rock, representing a triumph against the raging Titans.
+
+1. Seahawks
+1. Vikings
+1. Lakers
+1. Cowboys vs Dolphins
+1. Social Security
+---
+
 ## 2023-12-24
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-24T01:28:06.036Z.png)
