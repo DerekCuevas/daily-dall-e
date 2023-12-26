@@ -1,4 +1,17 @@
 
+## 2023-12-26
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-26T01:24:27.120Z.png)
+
+> In the style of Piet Mondrian: A painting featuring the intense colors of The Color Purple, divided into intersecting horizontal and vertical lines, that give off a vibrant and bold energy.
+
+1. Chiefs
+1. Eagles game
+1. The Color Purple
+1. Tommy DeVito
+1. Travis Kelce
+---
+
 ## 2023-12-25
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-25T01:26:35.566Z.png)
