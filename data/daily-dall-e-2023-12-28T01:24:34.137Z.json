@@ -1,0 +1,143 @@
+{
+  "topTrends": [
+    {
+      "query": "Tom Smothers",
+      "articles": [
+        {
+          "title": "Tom Smothers, half of the famed comedy and music duo the ..."
+        },
+        {
+          "title": "Tom Smothers, half of iconic Smothers Brothers musical comedy ..."
+        },
+        {
+          "title": "Tom Smothers, one half of famed comedy duo, dies at 86"
+        },
+        {
+          "title": "Comedian Tom Smothers of the Smothers Brothers dies at 86"
+        },
+        {
+          "title": "Tom Smothers, one half of TV comedy legends the Smothers ..."
+        },
+        {
+          "title": "Tom Smothers, half of American comedy duo the Smothers Brothers ..."
+        },
+        {
+          "title": "Tom Smothers Dead: Smothers Brothers Comedian Was 86"
+        }
+      ]
+    },
+    {
+      "query": "Gypsy Rose",
+      "articles": [
+        {
+          "title": "Gypsy Rose Blanchard&#39;s release from prison latest twist in shocking ..."
+        },
+        {
+          "title": "Gypsy Rose Blanchard, Set to Be Freed From Prison, Regrets ..."
+        },
+        {
+          "title": "Gypsy Rose Blanchard set to be released from prison"
+        },
+        {
+          "title": "Gypsy Rose Blanchard Expected to be Released From Prison on ..."
+        },
+        {
+          "title": "After 8 years in prison, Gypsy Rose Blanchard will be released ..."
+        },
+        {
+          "title": "Gypsy Rose Blanchard, convicted in mom&#39;s murder, to be released ..."
+        },
+        {
+          "title": "Gypsy Rose Blanchard timeline details case ahead of prison release"
+        }
+      ]
+    },
+    {
+      "query": "Russell Wilson",
+      "articles": [
+        {
+          "title": "Broncos benching QB Russell Wilson for remainder of 2023 season ..."
+        },
+        {
+          "title": "Denver Broncos bench quarterback Russell Wilson for last 2 games"
+        },
+        {
+          "title": "Has Russell Wilson played his last game for the Broncos? - ESPN"
+        },
+        {
+          "title": "Russell Wilson benched by Denver Broncos to preserve cap flexibility"
+        },
+        {
+          "title": "Broncos bench quarterback Russell Wilson for remainder of NFL ..."
+        },
+        {
+          "title": "Broncos reportedly benching QB Russell Wilson; where does he go ..."
+        },
+        {
+          "title": "Russell Wilson benched by Broncos"
+        }
+      ]
+    },
+    {
+      "query": "Wendy's 1-cent burger",
+      "articles": [
+        {
+          "title": "1-cent Jr. Bacon Cheeseburger&#39;s are available at Wendy&#39;s this week ..."
+        },
+        {
+          "title": "A penny for Wendy&#39;s Jr. Bacon Cheeseburger? Florida leads US in ..."
+        },
+        {
+          "title": "Wendy&#39;s Jr. Bacon Cheeseburgers are only 1 cent this week – here&#39;s ..."
+        },
+        {
+          "title": "Wendy&#39;s selling bacon cheeseburgers for one cent this week"
+        },
+        {
+          "title": "Wendy&#39;s offering 1-cent Jr. Bacon Cheeseburgers for a whole week"
+        },
+        {
+          "title": "Wendy&#39;s: How to get your 1-cent burger this week"
+        },
+        {
+          "title": "Wendy&#39;s is offering 1-cent bacon cheeseburgers this week — here&#39;s ..."
+        }
+      ]
+    },
+    {
+      "query": "Chelsea",
+      "articles": [
+        {
+          "title": "Chelsea ratings: 8/10 Gusto shines in win vs. Crystal Palace - ESPN"
+        },
+        {
+          "title": "Late penalty earns Chelsea win over Crystal Palace"
+        },
+        {
+          "title": "Chelsea vs. Crystal Palace live stream: How to watch Premier ..."
+        },
+        {
+          "title": "Chelsea vs Crystal Palace LIVE: Premier League result and final ..."
+        },
+        {
+          "title": "Chelsea 2-1 Crystal Palace: Noni Madueke&#39;s late penalty sees ..."
+        },
+        {
+          "title": "Madueke&#39;s late penalty hands Chelsea 2-1 win over Crystal Palace ..."
+        },
+        {
+          "title": "Chelsea vs Crystal Palace Live Stream: Watch the game free ..."
+        },
+        {
+          "title": "Todd Boehly, Chelsea&#39;s self-styled revolutionary, is facing failure"
+        },
+        {
+          "title": "Student Profile: Chelsea Baker &#39;15 | Westfield State University"
+        }
+      ]
+    }
+  ],
+  "imagePrompt": "In the style of Vincent van Gogh: \"A swirling starry night sky above Wendy's restaurants where 1-cent burgers shower from the heavens.\"",
+  "imageURL": "https://oaidalleapiprodscus.blob.core.windows.net/private/org-GubZmPRWUVNOaxuTZQft1mhH/user-svhGlULMN6Dk7UxZuNkm5YuH/img-vnoHs8ovn6ed5u3pD4ujYX2g.png?st=2023-12-28T00%3A24%3A34Z&se=2023-12-28T02%3A24%3A34Z&sp=r&sv=2021-08-06&sr=b&rscd=inline&rsct=image/png&skoid=6aaadede-4fb3-4698-a8f6-684d7786b067&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2023-12-27T07%3A45%3A33Z&ske=2023-12-28T07%3A45%3A33Z&sks=b&skv=2021-08-06&sig=Z6%2B4lVNPt0Sdf6olb2y/hS8CEE8GVMWyoE2zpgN2fMA%3D",
+  "archiveFilepath": "./archive/daily-dall-e-2023-12-28T01:24:34.137Z.png"
+}

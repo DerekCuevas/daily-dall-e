@@ -1,4 +1,17 @@
 
+## 2023-12-28
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-28T01:24:34.137Z.png)
+
+> In the style of Vincent van Gogh: "A swirling starry night sky above Wendy's restaurants where 1-cent burgers shower from the heavens."
+
+1. Tom Smothers
+1. Gypsy Rose
+1. Russell Wilson
+1. Wendy's 1-cent burger
+1. Chelsea
+---
+
 ## 2023-12-27
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-27T01:24:26.087Z.png)
