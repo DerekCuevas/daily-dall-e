@@ -1,6 +1,24 @@
 
 ## 2023-12-29
 
+![Daily Dall-E](./archive/daily-dall-e-2023-12-29T19:37:28.667Z.png)
+
+> In the style of Banksy: An emotive and politically-charged graffiti art piece depicting the Oklahoma Sooners logos engulfed in flames, questioning the ethics of college football and its exploitation of student-athletes.
+
+1. Clemson football
+1. Ohio State football
+1. Notre Dame football
+1. Myles Garrett
+1. Browns
+1. Gypsy Rose
+1. Pistons
+1. Oklahoma football
+1. Powerball numbers
+1. Warriors
+---
+
+## 2023-12-29
+
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-29T01:19:25.763Z.png)
 
 > In the style of Vincent van Gogh: "The Browns' Lauded Comeback Victory" - a dynamic and vivid depiction of the thrilling victory of the Cleveland Browns team, with swirling, starry sky above.
