@@ -1,20 +1,37 @@
 import { OpenAI } from "https://deno.land/x/openai@v4.16.1/mod.ts";
 import { config } from "./config.ts";
 import { TrendFinder } from "./trends_finder.ts";
-import { InstagramClient } from "./instagram_client.ts";
 
-const TOP_TRENDS_COUNT = 5;
+const TOP_TRENDS_COUNT = 10;
+const LAST_POST_COUNT = 10;
+const DATA_DIR = "./data";
 
 const trendsFinder = new TrendFinder();
 const openai = new OpenAI({ apiKey: config.OPENAI_API_KEY });
 
-const instagramClient = new InstagramClient({
-  username: config.INSTAGRAM_USERNAME,
-  password: config.INSTAGRAM_PASSWORD,
-});
-
 const trends = await trendsFinder.find({ geo: "US" });
 const topTrends = trends.slice(0, TOP_TRENDS_COUNT);
+
+const previousPosts = [];
+for await (const post of await Deno.readDir(DATA_DIR)) {
+  if (!post.isFile) continue;
+
+  const path = `${DATA_DIR}/${post.name}`;
+  const file = await Deno.stat(path);
+  const createdAt = file.birthtime;
+
+  if (createdAt === null) throw new Error("No birthtime");
+
+  previousPosts.push({ path, createdAt });
+}
+
+previousPosts.sort((a, b) => b.createdAt.getTime() - a.createdAt.getTime());
+
+const previousImagePrompts = [];
+for await (const { path } of previousPosts.slice(0, LAST_POST_COUNT)) {
+  const contents = await Deno.readTextFile(path);
+  previousImagePrompts.push(JSON.parse(contents).imagePrompt);
+}
 
 const imagePromptChatCompletion = await openai.chat.completions.create({
   model: config.OPENAI_MODEL,
@@ -52,8 +69,14 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
     },
     {
       role: "user",
+      content: `Here are your last ${LAST_POST_COUNT} art pieces: ${previousImagePrompts.join(
+        ", "
+      )}`,
+    },
+    {
+      role: "user",
       content:
-        "In the style of a famous artist of your choosing, create and produce a very short and concise one sentence description of a single piece of artwork that features, highlights, or incorporates one of the pop culture trends.",
+        "In the style of a new famous artist of your choosing, create and produce a new and concise one sentence description of a single piece of artwork that features one of the pop culture trends.",
     },
   ],
 });
@@ -110,11 +133,5 @@ ${topTrends.map((t) => `1. ${t.query}`).join("\n")}
 `;
 
 await Deno.writeTextFile(outputFile, [readmeContents, contents].join("---\n"));
-
-// await instagramClient.uploadPhoto(
-//   archiveFilepath,
-//   imagePrompt,
-//   topTrends.map((t) => t.query)
-// );
 
 console.log("Complete.");
