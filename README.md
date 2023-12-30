@@ -1,4 +1,22 @@
 
+## 2023-12-30
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-30T01:24:11.934Z.png)
+
+> In the style of Banksy, a thought-provoking visual representation of Ohio State football players, wearing gas masks, taking the field on game day, commenting on the potential negative effects of pollution on sports.
+
+1. Clemson football
+1. Notre Dame football
+1. Ohio State Football
+1. Warriors
+1. Iowa State football
+1. Marvin Harrison Jr
+1. Frank Thomas
+1. Myles Garrett
+1. Kathy Griffin
+1. Gary Oldman
+---
+
 ## 2023-12-29
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-29T19:37:28.667Z.png)
