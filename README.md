@@ -1,4 +1,22 @@
 
+## 2023-12-31
+
+![Daily Dall-E](./archive/daily-dall-e-2023-12-31T01:28:27.101Z.png)
+
+> In the style of Yayoi Kusama: "Alabama Football Infinity Room" - A dazzling and immersive installation featuring infinite reflections of crimson and white, capturing the undying spirit of the Alabama football team.
+
+1. Dallas Cowboys
+1. Tom Wilkinson
+1. Auburn football
+1. Michigan football
+1. Alabama football
+1. Chelsea
+1. Desert
+1. Nottm Forest vs Man United
+1. Michael Schumacher
+1. Al Nassr
+---
+
 ## 2023-12-30
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-30T01:24:11.934Z.png)
