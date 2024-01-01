@@ -1,4 +1,22 @@
 
+## 2024-01-01
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-01T01:28:54.207Z.png)
+
+> In the style of Yayoi Kusama: "The Never-Ending Chiefs" - an optical illusion piece featuring repetitive dots in red and yellow, symbolizing the excitement and dominance of the Kansas City Chiefs' eighth consecutive AFC West title.
+
+1. Miami Dolphins
+1. Eagles
+1. Chiefs
+1. 49ers
+1. Raiders
+1. Rams
+1. Happy new year 2024
+1. Patriots
+1. Saints
+1. 49ers vs Commanders
+---
+
 ## 2023-12-31
 
 ![Daily Dall-E](./archive/daily-dall-e-2023-12-31T01:28:27.101Z.png)
