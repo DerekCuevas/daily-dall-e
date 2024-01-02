@@ -43,10 +43,6 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
     },
     {
       role: "user",
-      content: "Do not feature sports or sports related topics.",
-    },
-    {
-      role: "user",
       // OpenAI's safety system will reject these prompts
       content: "Do not feature famous female celebrities as a subject.",
     },
@@ -76,7 +72,7 @@ const imagePromptChatCompletion = await openai.chat.completions.create({
     {
       role: "user",
       content:
-        "In the style of a new famous artist of your choosing, create and produce a new and concise one sentence description of a single piece of artwork that features one of the pop culture trends.",
+        "In the style of a famous artist of your choosing, produce a concise one sentence description of a single piece of artwork that features the most interesting, non-sports related, news article.",
     },
   ],
 });
