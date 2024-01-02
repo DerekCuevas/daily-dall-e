@@ -1,4 +1,22 @@
 
+## 2024-01-02
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-02T01:26:02.488Z.png)
+
+> In the style of Jean-Michel Basquiat: "A frenzied and vibrant painting of Liverpool's Anfield stadium, celebrating the team's victory in the Premier League, with Mo Salah raising his arms in triumph amidst the cheering crowd."
+
+1. Japan earthquake
+1. LSU football
+1. Oregon Football
+1. Buffalo Bills
+1. Iowa football
+1. Texas Football
+1. NCAA football
+1. Liverpool
+1. Winter Classic 2024
+1. Epstein List
+---
+
 ## 2024-01-01
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-01T01:28:54.207Z.png)
