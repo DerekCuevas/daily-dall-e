@@ -1,4 +1,22 @@
 
+## 2024-01-05
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-05T01:26:30.635Z.png)
+
+> In the style of Salvador Dalí, I envisage a surrealistic landscape where a figure resembling an aged Mary Poppins actress, Glynis Johns, emerges from a melting grandfather clock, symbolizing the fluidity of time and the transcendence of her legacy as her image distorts across a dreamlike canvas speckled with whimsical characters from her storied career.
+
+1. Perry, Iowa
+1. Las Vegas Judge attacked
+1. Barcelona
+1. Glynis Johns
+1. LeBron James
+1. Miami Heat
+1. FA Cup
+1. Golden Bachelor wedding
+1. Clippers
+1. FC Barcelona
+---
+
 ## 2024-01-04
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-04T01:26:07.301Z.png)
