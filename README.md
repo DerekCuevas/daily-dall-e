@@ -1,4 +1,22 @@
 
+## 2024-01-06
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-06T01:25:42.390Z.png)
+
+> In the style of Salvador Dali, I present a surreal landscape where the fluid, melting facade of an MIT building drips like clockwork beneath a sky of warped watches, representing Neri Oxman's entanglement with plagiarism in a distortion of academic integrity and time.
+
+1. Christian Oliver
+1. David Soul
+1. Earthquake
+1. Earthquake Los Angeles
+1. Oscar Pistorius
+1. Miami
+1. Neri Oxman
+1. Norby Williamson
+1. President Biden
+1. North Korea
+---
+
 ## 2024-01-05
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-05T01:26:30.635Z.png)
