@@ -1,4 +1,22 @@
 
+## 2024-01-11
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-11T01:26:56.216Z.png)
+
+> Emulating the fragmented composition of Pablo Picasso's Cubist phase, this canvas fractures the image of a Bitcoin ETF into abstract geometric forms, juxtaposing reality with the multifaceted nature of cryptocurrency's entrance into the mainstream financial landscape.
+
+1. Nick Saban retiring
+1. Pete Carroll
+1. Real Madrid
+1. Real Madrid vs Atlético Madrid
+1. Bitcoin ETF
+1. Hunter Biden
+1. Purdue basketball
+1. Knicks
+1. Chris Christie
+1. Pistons
+---
+
 ## 2024-01-10
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-10T01:27:07.769Z.png)
