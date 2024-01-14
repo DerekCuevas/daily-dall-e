@@ -1,4 +1,22 @@
 
+## 2024-01-14
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-14T01:28:54.670Z.png)
+
+> In the style of Keith Haring, I present a vibrant and energetic piece that captures the essence of social activism with bold lines and bright colors, where chalk-like figures dance around the central figure of Taiwan's elected president, symbolizing the celebration of democracy and the defiance of authoritarian influence.
+
+1. Browns
+1. NFL playoff schedule
+1. Peacock
+1. Premier League
+1. Joe Flacco
+1. UFC
+1. Taiwan election 2024
+1. Bill Hayes
+1. Peter Crombie
+1. Nico Collins
+---
+
 ## 2024-01-13
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-13T01:26:29.750Z.png)
