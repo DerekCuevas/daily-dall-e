@@ -1,4 +1,22 @@
 
+## 2024-01-17
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-17T01:27:12.169Z.png)
+
+> In the style of Edward Hopper, a serene yet melancholic scene captures an empty, softly lit room with a single book on a worn table, titled "Just One More Sleep," suggesting the quiet introspection of a world paused by the simple yet profound narrative of Jamie Lee Curtis' children's book.
+
+1. Travis Kelce
+1. Lakers
+1. Child tax credits
+1. EGOT
+1. Ronald Powell
+1. Jamie Lee Curtis
+1. Pistons
+1. Dope
+1. Death and Other Details
+1. Love Island All Stars
+---
+
 ## 2024-01-16
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-16T01:26:52.833Z.png)
