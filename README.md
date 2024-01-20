@@ -1,4 +1,22 @@
 
+## 2024-01-20
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-20T01:26:31.673Z.png)
+
+> In the style of Vincent van Gogh, swirls of vibrant yellows and blues dance around a rustic, starry night where the silhouette of Alec Baldwin stands ponderously at the edge of a quaint, sleeping village, invoking the turbulent emotions and complexities of fate amidst a tranquil cosmic backdrop.
+
+1. Palworld
+1. Sports Illustrated
+1. Alec Baldwin
+1. Inter Miami
+1. Dolly Parton
+1. Apple Vision Pro
+1. Anthony Edwards
+1. Julian Sayin
+1. Desert
+1. Ben Shelton
+---
+
 ## 2024-01-19
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-19T01:27:27.017Z.png)
