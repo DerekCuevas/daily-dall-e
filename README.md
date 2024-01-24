@@ -1,4 +1,22 @@
 
+## 2024-01-24
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-24T01:27:31.982Z.png)
+
+> In the style of Pablo Picasso's Cubism, geometric shapes fracture and reconfigure the form of a somber courtroom, capturing the tension and multifaceted narratives within Fani Willis' scrutinized investigation amid a tumultuous political landscape.
+
+1. Oscar nominations 2024
+1. Adrian Griffin
+1. Terry Rozier
+1. Chelsea
+1. Anatomy of a Fall
+1. The Zone of Interest
+1. Tristan Thompson
+1. Fani Willis
+1. The Holdovers
+1. Sofia Vergara
+---
+
 ## 2024-01-23
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-23T01:27:38.321Z.png)
