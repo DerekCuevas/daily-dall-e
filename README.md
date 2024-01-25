@@ -1,4 +1,22 @@
 
+## 2024-01-25
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-25T01:27:42.551Z.png)
+
+> In the style of Andy Warhol, a series of silkscreen images captures the enigmatic visage of Jon Stewart, each canvas awash in exaggerated, stark primary colors that reflect the media's kaleidoscopic portrayal of his anticipated return to "The Daily Show," both celebrating and questioning the commodification of his satirical legacy.
+
+1. Lakers
+1. Barcelona
+1. Carlos Alcaraz
+1. Athletic  Barcelona
+1. North Korean
+1. Jon Stewart
+1. Enshrouded
+1. FC Barcelona
+1. Kari Lake
+1. Vic Fangio
+---
+
 ## 2024-01-24
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-24T01:27:31.982Z.png)
