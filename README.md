@@ -1,4 +1,22 @@
 
+## 2024-01-28
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-28T01:26:03.726Z.png)
+
+> In the style of Pablo Picasso's Cubism, fragmented geometric planes converge to reveal a multifaceted portrait of Aryna Sabalenka, her form and essence captured amidst a dramatic deconstruction of the tennis court, symbolizing her back-to-back Australian Open victory amidst a shattered status quo.
+
+1. Lions vs 49ers
+1. Chiefs vs Ravens
+1. Barcelona vs Villarreal
+1. Sabalenka
+1. Real Madrid
+1. Barcelona
+1. Iowa State basketball
+1. Sherrone Moore
+1. Bucks
+1. Duke basketball
+---
+
 ## 2024-01-27
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-27T01:22:11.229Z.png)
