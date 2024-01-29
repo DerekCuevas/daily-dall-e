@@ -1,4 +1,22 @@
 
+## 2024-01-29
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-29T01:23:22.101Z.png)
+
+> In the style of Jackson Pollock, I present an abstract expressionist canvas, chaotic with splatters and drips of bold, inky black punctuated with sudden strokes of arresting red, capturing the tumultuous energy and raw emotion of the technological battlefield as tech giants grapple with the ethics of AI and the scourge of deepfake content featuring public figures like Taylor Swift.
+
+1. Taylor Swift
+1. Daniil Medvedev
+1. Zay Flowers
+1. Manchester United
+1. Celtics
+1. Isiah Pacheco
+1. Mark Andrews
+1. Kadarius Toney
+1. Medvedev
+1. CBS
+---
+
 ## 2024-01-28
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-28T01:26:03.726Z.png)
