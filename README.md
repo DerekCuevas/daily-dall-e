@@ -1,4 +1,22 @@
 
+## 2024-01-31
+
+![Daily Dall-E](./archive/daily-dall-e-2024-01-31T01:23:37.609Z.png)
+
+> In the style of Picasso's Cubist period, the canvas fractures and reforms into geometric shapes and interlocking planes, portraying the fragmented yet iconic stage presence of Broadway legend Chita Rivera, an abstract homage to her enduring influence on the arts and the bittersweet finality of her curtain call.
+
+1. Premier League
+1. Chita Rivera
+1. Herald
+1. Cori Bush
+1. Vanderpump Rules
+1. Rajon Rondo
+1. MSFT
+1. Google stock
+1. Sarah J. Maas
+1. The chosen
+---
+
 ## 2024-01-30
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-30T01:22:58.468Z.png)
