@@ -1,4 +1,22 @@
 
+## 2024-02-01
+
+![Daily Dall-E](./archive/daily-dall-e-2024-02-01T01:25:59.247Z.png)
+
+> In the style of Banksy, the piece sharply contrasts silhouetted figures against a stark urban wall, where a child gazes upon the charred remnants of a Jackie Robinson statue, holding a baseball glove in one hand and a molotov cocktail in the other, a poignant commentary on the shattering of innocence and the perversion of American ideals.
+
+1. Justin Mohn
+1. Barcelona  Osasuna
+1. Liverpool vs Chelsea
+1. Man City
+1. Tottenham
+1. Fani Willis
+1. Jackie Robinson
+1. Byron Allen
+1. Feud: Capote vs The Swans
+1. Walmart stock split
+---
+
 ## 2024-01-31
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-01-31T01:23:37.609Z.png)
