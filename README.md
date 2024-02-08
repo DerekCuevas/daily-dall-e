@@ -1,4 +1,22 @@
 
+## 2024-02-08
+
+![Daily Dall-E](./archive/daily-dall-e-2024-02-08T01:22:36.273Z.png)
+
+> In the spirit of Andy Warhol's pop art, screen-printed repetitions of a stern-looking Taylor Swift glare across the canvas, each panel varying in neon vibrancy against a stark black backdrop, underscoring the obsessive, repetitive scrutiny of celebrity culture as echoed in the controversy over her private jet's flight tracking.
+
+1. AFCON
+1. FA Cup
+1. Vissel Kobe  Inter Miami
+1. A Quiet Place
+1. Xavier Tillman
+1. Abbott Elementary
+1. Moana 2
+1. Listeria
+1. Jalen Brunson
+1. Taylor Swift private jet tracker
+---
+
 ## 2024-02-07
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-02-07T01:21:56.147Z.png)
