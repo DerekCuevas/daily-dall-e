@@ -1,4 +1,22 @@
 
+## 2024-02-17
+
+![Daily Dall-E](./archive/daily-dall-e-2024-02-17T01:22:24.338Z.png)
+
+> In the style of René Magritte, a surreal composition presents a transparent silhouette of Alexei Navalny filled with an autumnal Russian landscape, symbolizing the dissident's life as both part of and apart from his country, with a shadow of the Kremlin looming ambiguously in the background, questioning the nature of reality and illusion in the political sphere.
+
+1. Alexei Navalny
+1. Oppenheimer
+1. Earthquake
+1. Amy Schumer
+1. Jimmy Garoppolo
+1. Trump news
+1. Ruby
+1. Python
+1. Endometriosis
+1. Billy Joel
+---
+
 ## 2024-02-15
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-02-15T01:23:00.679Z.png)
