@@ -1,4 +1,22 @@
 
+## 2024-02-20
+
+![Daily Dall-E](./archive/daily-dall-e-2024-02-20T01:22:08.081Z.png)
+
+> In the style of Banksy, a monochromatic stencil on an urban wall subtly reveals Michael J. Fox, standing ovation behind him morphing into a multitude of iconic clocks from his "Back to the Future" days, a poignant commentary on the passage of time and the endurance of spirit.
+
+1. Danny Masterson
+1. Brian Peck
+1. Dating apps
+1. George Washington
+1. Bruins
+1. Billie Eilish
+1. Great Lakes
+1. Michael J. Fox
+1. Presidents Day sales
+1. Mbappe
+---
+
 ## 2024-02-19
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-02-19T01:23:58.330Z.png)
