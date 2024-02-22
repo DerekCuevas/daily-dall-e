@@ -1,4 +1,22 @@
 
+## 2024-02-22
+
+![Daily Dall-E](./archive/daily-dall-e-2024-02-22T01:22:28.345Z.png)
+
+> In the style of Jackson Pollock, an abstract expressionist canvas erupts in a chaos of splattered and dripped paint, where the gestural interplay of vivid hues and dynamic textures coalesces into a visual manifestation of the unpredictable entanglement of politics and technology within the Shadow of the Erdtree phenomenon, capturing the relentless energy and emergent patterns of a society at the frontier of gaming culture.
+
+1. Shadow of the Erdtree
+1. Napoli vs Barcelona
+1. Arsenal
+1. Liverpool
+1. Barcelona
+1. Student loan forgiveness
+1. Inter Miami
+1. Beyonce Texas Hold 'Em
+1. Kansas City shooting
+1. Ewen MacIntosh
+---
+
 ## 2024-02-21
 
 ![Daily Dall-E](./archive/daily-dall-e-2024-02-21T01:22:59.863Z.png)
