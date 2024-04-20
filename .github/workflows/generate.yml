@@ -1,7 +1,7 @@
 name: Generate Daily Dall-E
 
 on:
-  Triggers the workflow every 24 hours
+  # Triggers the workflow every 24 hours
   schedule:
     - cron: "0 1 * * *"
 
